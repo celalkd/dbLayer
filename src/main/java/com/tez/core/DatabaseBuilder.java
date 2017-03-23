@@ -1,9 +1,13 @@
-package dbClasses;
+package com.tez.core;
 
-import helperClasses.*;
-import dbClasses.*;
+import com.tez.database.MongoDB;
+import com.tez.database.Redis;
+import com.tez.domain.Movie;
+import com.tez.domain.Archive;
+import com.tez.domain.FileIO;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Iterator;
 
 
 public class DatabaseBuilder {	
@@ -15,8 +19,8 @@ public class DatabaseBuilder {
 	}
         
 	MongoDB mongoDB = MongoDB.getMongoDB();
-	Neo4j neo4j = new Neo4j();
-	Redis redis = new Redis();
+	//Neo4j neo4j = new Neo4j();
+	//Redis redis = new Redis();
 	
 	Archive archieve = Archive.getArchive();
 	FileIO fileIO = FileIO.getFileIO();
@@ -32,8 +36,8 @@ public class DatabaseBuilder {
                         
 						
 			mongoDB.createAndInsertMovieDocs(archieve.getMovieArchive());//mongodb		
-			redis.createRedis(archieve.getMovieArchive());//redis
-			neo4j.createGraph(archieve.getMovieArchive());//neo4j	
+			//redis.createRedis(archieve.getMovieArchive());//redis
+			//neo4j.createGraph(archieve.getMovieArchive());//neo4j	
                         
                         
 			

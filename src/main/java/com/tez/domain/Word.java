@@ -1,4 +1,4 @@
-package helperClasses;
+package com.tez.domain;
 
 public class Word{
 

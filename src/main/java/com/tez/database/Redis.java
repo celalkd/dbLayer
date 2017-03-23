@@ -1,9 +1,9 @@
-package dbClasses;
+package com.tez.database;
 
 
 
-import helperClasses.Movie;
-import helperClasses.Word;
+import com.tez.domain.Movie;
+import com.tez.domain.Word;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;

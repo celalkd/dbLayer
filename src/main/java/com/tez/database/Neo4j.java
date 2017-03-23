@@ -1,6 +1,6 @@
-package dbClasses;
+package com.tez.database;
 
-import helperClasses.Movie;
+import com.tez.domain.Movie;
 import org.jsoup.Jsoup;
 import org.jsoup.Connection.Response;
 import org.jsoup.nodes.Document;

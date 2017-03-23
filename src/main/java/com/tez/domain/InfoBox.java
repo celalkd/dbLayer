@@ -1,7 +1,10 @@
-package helperClasses;
+package com.tez.domain;
 
 import java.io.IOException;
+import java.net.URLDecoder;
 import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 import org.jsoup.Jsoup;
 import org.jsoup.Connection.Response;
@@ -14,7 +17,7 @@ public class InfoBox {
 	private String title;
 	private String director;
 	private ArrayList<String> starring = new ArrayList<String>();
-	//private ArrayList<Star> starList = new ArrayList<Star>();
+	private String poster ;
         
 	//CONSTRUCTORS
 	public InfoBox(){
@@ -27,9 +30,37 @@ public class InfoBox {
 		setTitle(vikiURL, htmlPath);
 		setDirector(vikiURL,0);
 		setStarring(vikiURL,0);
+                setPoster(vikiURL);
 	}
 	
-	//CUSTOM SETTER METHODS        
+	//CUSTOM SETTER METHODS   
+        public void setPoster(String vikiURL){
+            try {	
+			Response res = Jsoup.connect(vikiURL).execute();
+			String html = res.body();
+			Document doc = Jsoup.parseBodyFragment(html);
+			Element infoBox = doc.getElementsByClass("infobox vevent").get(0);
+                        Element image = infoBox.getElementsByClass("image").get(0);
+                        //Element img = image.getElementsByTag("img").get(0);
+                        String src = image.attr("href");
+                        src = URLDecoder.decode(src,"UTF-8");
+                        src = "https://en.wikipedia.org"+src;
+                       
+                        res = Jsoup.connect(src).execute();
+                        html = res.body();
+                        doc = Jsoup.parseBodyFragment(html);
+                        Element img = doc.getElementsByTag("img").get(0);
+                        String poster = img.attr("src");
+                        poster = URLDecoder.decode(poster,"UTF-8");
+                        this.poster = "https:"+poster;
+                        
+            } catch (IOException ex) {
+                Logger.getLogger(InfoBox.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+        public String getPoster(){
+            return poster;
+        }
 	public void setDirector(String director){
 		this.director = director;
 	}

@@ -1,4 +1,4 @@
-package helperClasses;
+package com.tez.domain;
 
 
 import java.io.IOException;
@@ -48,7 +48,7 @@ public class Archive {
 				movie.setWikiURL_EN("https://en.wikipedia.org/wiki/"+linkExtension);//ba�lang�� ENG wiki linki
 				movie.setActiveWikiLink();//aktif olan film linki bulunur
 				movie.setActiveVikiURL();//aktif linkin t�rk�e sayfas� bulunur
-				
+				movie.setPlot(movie.getWikiURL_EN());
 				InfoBox infoBox = new InfoBox(movie.getWikiURL_EN());
 				movie.setInfoBox(infoBox);				
 				

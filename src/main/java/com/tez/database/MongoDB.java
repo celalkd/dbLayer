@@ -1,6 +1,6 @@
-package dbClasses;
+package com.tez.database;
 
-import helperClasses.Movie;
+import com.tez.domain.Movie;
 import java.util.ArrayList;
 import com.mongodb.*;
 
@@ -35,8 +35,8 @@ public class MongoDB {
 				 .append("rating", m.getRating())
 				 .append("wikiURL", m.getWikiURL_EN())
 				 .append("vikiURL", m.getVikiURL_TR())
-				 /*.append("context_ENG", m.getContext_ENG())
-				 .append("context_TR", m.getContext_TR())*/;	
+                                 .append("poster", m.getInfoBox().getPoster())
+                                 .append("plot", m.getPlot());	
 				docList.add(movieDoc);
 			}
 		}		
