@@ -13,6 +13,7 @@ import static org.neo4j.driver.v1.Values.parameters;
 import java.io.IOException;
 import java.net.URLDecoder;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Neo4j {
 	public Driver driver ;
@@ -93,18 +94,19 @@ public class Neo4j {
 		}
 		return false;
 	}
-	public void writeMovie(Movie movie){
+	public void insertMovie(Movie movie){
 		
 		try ( Session session = driver.session( AccessMode.WRITE ) )
 		{
 		        try ( Transaction tx = session.beginTransaction() )
 		        {
 		        	String url = movie.getWikiURL_EN();
-		    		String id = new Integer(movie.getId()).toString();		    		
+		    		String id = new Integer(movie.getId()).toString();
+                                String title = movie.getInfoBox().getTitle();
 		    		
-		    		tx.run( "CREATE (a:Movie {id: {id}, url: {url}})", parameters( "id", id, "url", url));
-		            tx.success();
-		            tx.close();
+		    		tx.run( "CREATE (a:Movie {title:{title},id: {id}, url: {url}})", parameters("title", title,"id", id, "url", url));
+                                tx.success();
+                                tx.close();
 		        }
 		        finally
 		        {
@@ -112,6 +114,93 @@ public class Neo4j {
 		        }
 		}		
 		
+	}
+        public void insertDirector(Movie movie){ 
+		try ( Session session = driver.session( AccessMode.WRITE ) )
+		{
+		        try ( Transaction tx = session.beginTransaction() )
+		        {
+		        	String name = movie.getInfoBox().getDirector();
+                                StatementResult result = tx.run( "MATCH (a:Director) WHERE a.name = {name} RETURN a",
+		    		        parameters( "name", name ) );
+                                
+                                if(!result.hasNext()){
+                                    tx.run( "CREATE (a:Director {name:{name}})", parameters("name", name));
+                                    
+                                }
+                                tx.run("MATCH (m:Movie),(d:Director) "
+						+ "WHERE m.title = {title} AND d.name ={name} "
+						+ "CREATE (d)-[r:directed]->(m)"
+                                                , parameters( "title", movie.getInfoBox().getTitle(), "name", name) );
+                                
+                                
+                                tx.success();
+                                tx.close();
+		        }
+		        finally
+		        {
+		            bookmark = session.lastBookmark();
+		        }
+		}		
+	}
+        public void insertStarring(Movie movie){ 
+		try ( Session session = driver.session( AccessMode.WRITE ) )
+		{
+		        try ( Transaction tx = session.beginTransaction() )
+		        {
+		        	List<String> starList = movie.getInfoBox().getStarring();
+                                
+                                for(String name : starList){
+                                    StatementResult result = tx.run( "MATCH (a:Star) WHERE a.name = {name} RETURN a",
+		    		        parameters( "name", name ) );                                
+                                    if(!result.hasNext()){
+                                        tx.run( "CREATE (a:Star {name:{name}})", parameters("name", name));
+                                        
+                                        
+                                    }
+                                    tx.run("MATCH (m:Movie),(s:Star) "
+						+ "WHERE m.title = {title} AND s.name ={name} "
+						+ "CREATE (s)-[r:acted]->(m)"
+                                                , parameters( "title", movie.getInfoBox().getTitle(), "name", name) );
+                                }
+                                
+                                tx.success();
+                                tx.close();
+		        }
+		        finally
+		        {
+		            bookmark = session.lastBookmark();
+		        }
+		}		
+	}
+        public void insertGenre(Movie movie){ 
+		try ( Session session = driver.session( AccessMode.WRITE ) )
+		{
+		        try ( Transaction tx = session.beginTransaction() )
+		        {
+		        	List<String> genreList = movie.getGenre();
+                                
+                                for(String name : genreList){
+                                    StatementResult result = tx.run( "MATCH (a:Genre) WHERE a.name = {name} RETURN a",
+		    		        parameters( "name", name ) );                                
+                                    if(!result.hasNext()){
+                                        tx.run( "CREATE (a:Genre {name:{name}})", parameters("name", name));
+                                        
+                                    }
+                                    tx.run("MATCH (m:Movie),(g:Genre) "
+						+ "WHERE m.title = {title} AND g.name ={name} "
+						+ "CREATE (m)-[r:in_genre]->(g)"
+                                                , parameters( "title", movie.getInfoBox().getTitle(), "name", name) );
+                                }
+                                
+                                tx.success();
+                                tx.close();
+		        }
+		        finally
+		        {
+		            bookmark = session.lastBookmark();
+		        }
+		}		
 	}
 	public void writeLink(String url){
 		if(!readGraphData(url)){
@@ -180,7 +269,7 @@ public class Neo4j {
 			System.out.println(movie.getInfoBox().getTitle()+" Neo4j");
 			
 			if(!movie.getWikiURL_EN().equals("No Url Source")){
-				writeMovie(movie);
+				insertMovie(movie);
 				links_depth_1 = collectLinks(movie.getWikiURL_EN());
 				for(String link1 : links_depth_1){
 									

@@ -1799,8 +1799,6 @@ WORD: türden, FREQ: 1
 WORD: yakınlaşmalar, FREQ: 1
 WORD: kutsal, FREQ: 1
 WORD: hazine, FREQ: 1
-WORD: extra, FREQ: 1
-WORD: terrestrial, FREQ: 1
 WORD: kick, FREQ: 1
 WORD: can, FREQ: 1
 WORD: twilight, FREQ: 1
@@ -2710,8 +2708,8 @@ WORD: mcbride, FREQ: 18
 WORD: yahudi, FREQ: 19
 WORD: b, FREQ: 21
 WORD: steven, FREQ: 22
+WORD: the, FREQ: 23
 WORD: kaynağı, FREQ: 24
-WORD: the, FREQ: 24
 WORD: kazandı, FREQ: 24
 WORD: filmin, FREQ: 28
 WORD: holocaust, FREQ: 31

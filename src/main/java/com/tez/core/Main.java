@@ -15,7 +15,7 @@ public class Main {
         
         
         DatabaseBuilder.getDatabaseBuilder().build(movieListFileLocation, imdbListFileLocation, stopWordListENGLocation, stopWordListTRLocation);
-        DatabaseBuilder.getDatabaseBuilder().report();
+       // DatabaseBuilder.getDatabaseBuilder().report();
     }	
 	
    

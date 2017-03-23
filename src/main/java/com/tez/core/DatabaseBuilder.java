@@ -1,6 +1,7 @@
 package com.tez.core;
 
 import com.tez.database.MongoDB;
+import com.tez.database.Neo4j;
 import com.tez.database.Redis;
 import com.tez.domain.Movie;
 import com.tez.domain.Archive;
@@ -18,8 +19,8 @@ public class DatabaseBuilder {
 		return databaseBuilder;
 	}
         
-	MongoDB mongoDB = MongoDB.getMongoDB();
-	//Neo4j neo4j = new Neo4j();
+	//MongoDB mongoDB = MongoDB.getMongoDB();
+	Neo4j neo4j = new Neo4j();
 	//Redis redis = new Redis();
 	
 	Archive archieve = Archive.getArchive();
@@ -35,11 +36,16 @@ public class DatabaseBuilder {
 			archieve.writeWordsToFile("ENG");                       
                         
 						
-			mongoDB.createAndInsertMovieDocs(archieve.getMovieArchive());//mongodb		
+			//mongoDB.createAndInsertMovieDocs(archieve.getMovieArchive());//mongodb		
 			//redis.createRedis(archieve.getMovieArchive());//redis
 			//neo4j.createGraph(archieve.getMovieArchive());//neo4j	
-                        
-                        
+                        neo4j.cleanDatabase();
+                        for(Movie m : archieve.getMovieArchive()){
+                            neo4j.insertMovie(m);
+                            neo4j.insertDirector(m);
+                            neo4j.insertStarring(m);
+                            neo4j.insertGenre(m);
+                        }
 			
 		} catch (IOException e) {
 			e.printStackTrace();

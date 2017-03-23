@@ -757,7 +757,6 @@ WORD: title, FREQ: 1
 WORD: rauzi, FREQ: 1
 WORD: robin, FREQ: 1
 WORD: former, FREQ: 1
-WORD: club, FREQ: 1
 WORD: falls, FREQ: 1
 WORD: destries, FREQ: 1
 WORD: ecorazzi, FREQ: 1
@@ -879,6 +878,7 @@ WORD: dolan, FREQ: 1
 WORD: cadillac, FREQ: 1
 WORD: mercy, FREQ: 1
 WORD: tower, FREQ: 1
+WORD: losers, FREQ: 1
 WORD: gerald, FREQ: 1
 WORD: game, FREQ: 1
 WORD: rage, FREQ: 1
@@ -1051,7 +1051,6 @@ WORD: men, FREQ: 2
 WORD: author, FREQ: 2
 WORD: room, FREQ: 2
 WORD: reiner, FREQ: 2
-WORD: part, FREQ: 2
 WORD: something, FREQ: 2
 WORD: served, FREQ: 2
 WORD: though, FREQ: 2
@@ -1137,6 +1136,7 @@ WORD: mises, FREQ: 2
 WORD: reunion, FREQ: 2
 WORD: tales, FREQ: 2
 WORD: cleveland, FREQ: 2
+WORD: club, FREQ: 2
 WORD: news, FREQ: 2
 WORD: margaret, FREQ: 2
 WORD: little, FREQ: 2
@@ -1212,6 +1212,7 @@ WORD: four, FREQ: 3
 WORD: green, FREQ: 3
 WORD: mist, FREQ: 3
 WORD: stand, FREQ: 3
+WORD: part, FREQ: 3
 WORD: fictional, FREQ: 3
 WORD: main, FREQ: 3
 WORD: air, FREQ: 3
