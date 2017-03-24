@@ -1,4 +1,4 @@
-WORD: sayfasına, FREQ: 1
+WORD: kulübü sayfasına, FREQ: 1
 WORD: bakınız, FREQ: 1
 WORD: yapımcı, FREQ: 1
 WORD: arnon, FREQ: 1
@@ -452,6 +452,7 @@ WORD: dvd, FREQ: 3
 WORD: palahniuk, FREQ: 4
 WORD: tarafından, FREQ: 4
 WORD: olan, FREQ: 4
+WORD: kulübü, FREQ: 5
 WORD: david, FREQ: 5
 WORD: fincher, FREQ: 5
 WORD: brad, FREQ: 5
@@ -460,7 +461,6 @@ WORD: helena, FREQ: 5
 WORD: bonham, FREQ: 5
 WORD: carter, FREQ: 5
 WORD: notlar, FREQ: 5
-WORD: kulübü, FREQ: 6
 WORD: fight, FREQ: 6
 WORD: club, FREQ: 6
 WORD: kaynağı, FREQ: 6

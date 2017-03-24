@@ -86,9 +86,12 @@ WORD: dies, FREQ: 1
 WORD: overcome, FREQ: 1
 WORD: decide, FREQ: 1
 WORD: distraction, FREQ: 1
-WORD: manipulates, FREQ: 1
+WORD: disposes, FREQ: 1
+WORD: pair, FREQ: 1
+WORD: food, FREQ: 1
+WORD: blaming, FREQ: 1
 WORD: tunnel, FREQ: 1
-WORD: tricks, FREQ: 1
+WORD: tricked, FREQ: 1
 WORD: venturing, FREQ: 1
 WORD: giant, FREQ: 1
 WORD: narrowly, FREQ: 1
@@ -1385,6 +1388,7 @@ WORD: ultimatum, FREQ: 1
 WORD: knight, FREQ: 1
 WORD: skyfall, FREQ: 1
 WORD: interstellar, FREQ: 1
+WORD: rogue, FREQ: 1
 WORD: eden, FREQ: 1
 WORD: defiant, FREQ: 1
 WORD: spartacus, FREQ: 1
@@ -1744,7 +1748,6 @@ WORD: reunited, FREQ: 2
 WORD: surviving, FREQ: 2
 WORD: members, FREQ: 2
 WORD: rosie, FREQ: 2
-WORD: leaves, FREQ: 2
 WORD: returning, FREQ: 2
 WORD: information, FREQ: 2
 WORD: ensemble, FREQ: 2
@@ -1803,6 +1806,7 @@ WORD: umbar, FREQ: 2
 WORD: sees, FREQ: 2
 WORD: ships, FREQ: 2
 WORD: immediately, FREQ: 2
+WORD: leaving, FREQ: 2
 WORD: east, FREQ: 2
 WORD: smaller, FREQ: 2
 WORD: largely, FREQ: 2
@@ -2271,7 +2275,7 @@ WORD: kill, FREQ: 3
 WORD: save, FREQ: 3
 WORD: arrive, FREQ: 3
 WORD: haradrim, FREQ: 3
-WORD: leaving, FREQ: 3
+WORD: leaves, FREQ: 3
 WORD: behind, FREQ: 3
 WORD: must, FREQ: 3
 WORD: volcano, FREQ: 3
@@ -2906,12 +2910,12 @@ WORD: fields, FREQ: 13
 WORD: march, FREQ: 13
 WORD: takes, FREQ: 13
 WORD: series, FREQ: 13
-WORD: last, FREQ: 13
 WORD: man, FREQ: 13
 WORD: october, FREQ: 13
 WORD: awards, FREQ: 14
 WORD: picture, FREQ: 14
 WORD: denethor, FREQ: 14
+WORD: last, FREQ: 14
 WORD: november, FREQ: 14
 WORD: pippin, FREQ: 15
 WORD: faramir, FREQ: 15
@@ -2943,7 +2947,7 @@ WORD: dead, FREQ: 21
 WORD: shot, FREQ: 21
 WORD: award, FREQ: 21
 WORD: fellowship, FREQ: 22
-WORD: one, FREQ: 22
+WORD: one, FREQ: 23
 WORD: tirith, FREQ: 23
 WORD: hobbit, FREQ: 24
 WORD: gandalf, FREQ: 24
@@ -2957,9 +2961,9 @@ WORD: time, FREQ: 27
 WORD: films, FREQ: 28
 WORD: office, FREQ: 28
 WORD: box, FREQ: 29
-WORD: sam, FREQ: 32
 WORD: battle, FREQ: 32
 WORD: extended, FREQ: 33
+WORD: sam, FREQ: 33
 WORD: middle, FREQ: 33
 WORD: edition, FREQ: 33
 WORD: earth, FREQ: 36

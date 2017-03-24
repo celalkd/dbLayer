@@ -65,9 +65,8 @@ WORD: cold, FREQ: 1
 WORD: collapses, FREQ: 1
 WORD: instructs, FREQ: 1
 WORD: train, FREQ: 1
-WORD: kills, FREQ: 1
 WORD: tauntaun, FREQ: 1
-WORD: warmth, FREQ: 1
+WORD: froze, FREQ: 1
 WORD: keep, FREQ: 1
 WORD: shelter, FREQ: 1
 WORD: rescued, FREQ: 1
@@ -1129,7 +1128,6 @@ WORD: escort, FREQ: 1
 WORD: lambda, FREQ: 1
 WORD: class, FREQ: 1
 WORD: shuttle, FREQ: 1
-WORD: slave, FREQ: 1
 WORD: song, FREQ: 1
 WORD: stakeout, FREQ: 1
 WORD: dope, FREQ: 1
@@ -1336,7 +1334,6 @@ WORD: country, FREQ: 2
 WORD: executive, FREQ: 2
 WORD: rest, FREQ: 2
 WORD: small, FREQ: 2
-WORD: organa, FREQ: 2
 WORD: whether, FREQ: 2
 WORD: complete, FREQ: 2
 WORD: mixed, FREQ: 2
@@ -1400,6 +1397,7 @@ WORD: lose, FREQ: 2
 WORD: jabba, FREQ: 2
 WORD: hutt, FREQ: 2
 WORD: departs, FREQ: 2
+WORD: slave, FREQ: 2
 WORD: air, FREQ: 2
 WORD: shaft, FREQ: 2
 WORD: match, FREQ: 2
@@ -1710,6 +1708,7 @@ WORD: distributed, FREQ: 3
 WORD: known, FREQ: 3
 WORD: wrote, FREQ: 3
 WORD: producer, FREQ: 3
+WORD: organa, FREQ: 3
 WORD: become, FREQ: 3
 WORD: full, FREQ: 3
 WORD: worldwide, FREQ: 3
@@ -1718,7 +1717,6 @@ WORD: preservation, FREQ: 3
 WORD: library, FREQ: 3
 WORD: congress, FREQ: 3
 WORD: works, FREQ: 3
-WORD: death, FREQ: 3
 WORD: led, FREQ: 3
 WORD: ice, FREQ: 3
 WORD: creature, FREQ: 3
@@ -1882,6 +1880,7 @@ WORD: became, FREQ: 4
 WORD: highest, FREQ: 4
 WORD: grossing, FREQ: 4
 WORD: followed, FREQ: 4
+WORD: death, FREQ: 4
 WORD: droids, FREQ: 4
 WORD: party, FREQ: 4
 WORD: wing, FREQ: 4

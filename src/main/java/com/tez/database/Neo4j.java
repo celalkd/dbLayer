@@ -101,10 +101,10 @@ public class Neo4j {
 		        try ( Transaction tx = session.beginTransaction() )
 		        {
 		        	String url = movie.getWikiURL_EN();
-		    		String id = new Integer(movie.getId()).toString();
+		    		String movieId = new Integer(movie.getId()).toString();
                                 String title = movie.getInfoBox().getTitle();
 		    		
-		    		tx.run( "CREATE (a:Movie {title:{title},id: {id}, url: {url}})", parameters("title", title,"id", id, "url", url));
+		    		tx.run( "CREATE (a:Movie {title:{title}, movieId:{movieId}, url:{url}})", parameters("title", title,"movieId", movieId, "url", url));
                                 tx.success();
                                 tx.close();
 		        }
@@ -336,7 +336,14 @@ public class Neo4j {
 		}		
 		return urlList;
 	}
-	
+	public void insertInfoBoxGraph(ArrayList<Movie> movies){
+            for(Movie m : movies){
+                insertMovie(m);
+                insertDirector(m);
+                insertStarring(m);
+                insertGenre(m);
+            }
+        }
 	
 	public String substring(String str){		
 		return str.substring(1, str.length()-1);		

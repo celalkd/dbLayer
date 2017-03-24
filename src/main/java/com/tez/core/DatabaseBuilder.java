@@ -40,12 +40,7 @@ public class DatabaseBuilder {
 			//redis.createRedis(archieve.getMovieArchive());//redis
 			//neo4j.createGraph(archieve.getMovieArchive());//neo4j	
                         neo4j.cleanDatabase();
-                        for(Movie m : archieve.getMovieArchive()){
-                            neo4j.insertMovie(m);
-                            neo4j.insertDirector(m);
-                            neo4j.insertStarring(m);
-                            neo4j.insertGenre(m);
-                        }
+                        neo4j.insertInfoBoxGraph(archieve.getMovieArchive());
 			
 		} catch (IOException e) {
 			e.printStackTrace();
