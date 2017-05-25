@@ -189,7 +189,7 @@ public class Neo4j {
                                     }
                                     tx.run("MATCH (m:Movie),(g:Genre) "
 						+ "WHERE m.title = {title} AND g.name ={name} "
-						+ "CREATE (m)-[r:in_genre]->(g)"
+						+ "CREATE (m)<-[r:in_genre]-(g)"
                                                 , parameters( "title", movie.getInfoBox().getTitle(), "name", name) );
                                 }
                                 
@@ -266,7 +266,7 @@ public class Neo4j {
 				
 		for(Movie movie : movieList){
 
-			System.out.println(movie.getInfoBox().getTitle()+" Neo4j");
+			//System.out.println(movie.getInfoBox().getTitle()+" Neo4j");
 			
 			if(!movie.getWikiURL_EN().equals("No Url Source")){
 				insertMovie(movie);
@@ -283,7 +283,7 @@ public class Neo4j {
 				}
 			}
 			else {
-				System.out.println(movie.getWikiURL_EN());
+				//System.out.println(movie.getWikiURL_EN());
 			}
 		}				
 	}
@@ -331,7 +331,7 @@ public class Neo4j {
 			}			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
-			System.out.println(wikiUrl);
+			//System.out.println(wikiUrl);
 			e.printStackTrace();
 		}		
 		return urlList;

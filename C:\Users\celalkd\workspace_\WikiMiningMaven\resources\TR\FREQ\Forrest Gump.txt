@@ -249,7 +249,6 @@ WORD: keşfeder, FREQ: 1
 WORD: ordu, FREQ: 1
 WORD: takımında, FREQ: 1
 WORD: takımına, FREQ: 1
-WORD: karşı, FREQ: 1
 WORD: oynanan, FREQ: 1
 WORD: dostluk, FREQ: 1
 WORD: maçında, FREQ: 1
@@ -560,6 +559,7 @@ WORD: bölümlerin, FREQ: 1
 WORD: atlanmasına, FREQ: 1
 WORD: destek, FREQ: 1
 WORD: kullanması, FREQ: 1
+WORD: ni, FREQ: 1
 WORD: boydan, FREQ: 1
 WORD: boya, FREQ: 1
 WORD: koşarak, FREQ: 1
@@ -1197,7 +1197,7 @@ WORD: wallis, FREQ: 1
 WORD: love, FREQ: 1
 WORD: kanunun, FREQ: 1
 WORD: kuvveti, FREQ: 1
-WORD: godfather, FREQ: 1
+WORD: baba, FREQ: 1
 WORD: exorcist, FREQ: 1
 WORD: mahallesi, FREQ: 1
 WORD: guguk, FREQ: 1
@@ -1205,12 +1205,7 @@ WORD: kuşu, FREQ: 1
 WORD: rocky, FREQ: 1
 WORD: geceyarısı, FREQ: 1
 WORD: ekspresi, FREQ: 1
-WORD: vs, FREQ: 1
-WORD: ordinary, FREQ: 1
-WORD: people, FREQ: 1
 WORD: göl, FREQ: 1
-WORD: extra, FREQ: 1
-WORD: terrestrial, FREQ: 1
 WORD: amadeus, FREQ: 1
 WORD: afrikam, FREQ: 1
 WORD: i̇mparator, FREQ: 1
@@ -1386,8 +1381,6 @@ WORD: nashville, FREQ: 1
 WORD: başkanın, FREQ: 1
 WORD: adamları, FREQ: 1
 WORD: günleri, FREQ: 1
-WORD: sıradan, FREQ: 1
-WORD: i̇nsanlar, FREQ: 1
 WORD: ateş, FREQ: 1
 WORD: arabaları, FREQ: 1
 WORD: kızıllar, FREQ: 1
@@ -1410,7 +1403,6 @@ WORD: sessizliği, FREQ: 1
 WORD: howards, FREQ: 1
 WORD: end, FREQ: 1
 WORD: ucuz, FREQ: 1
-WORD: roman, FREQ: 1
 WORD: shine, FREQ: 1
 WORD: sırları, FREQ: 1
 WORD: gods, FREQ: 1
@@ -1526,6 +1518,7 @@ WORD: savaş, FREQ: 2
 WORD: ertesi, FREQ: 2
 WORD: pinpon, FREQ: 2
 WORD: çin, FREQ: 2
+WORD: karşı, FREQ: 2
 WORD: beyaz, FREQ: 2
 WORD: araya, FREQ: 2
 WORD: watergate, FREQ: 2
@@ -1648,9 +1641,12 @@ WORD: becket, FREQ: 2
 WORD: devrin, FREQ: 2
 WORD: adamı, FREQ: 2
 WORD: story, FREQ: 2
+WORD: roman, FREQ: 2
 WORD: turning, FREQ: 2
 WORD: point, FREQ: 2
 WORD: kramer, FREQ: 2
+WORD: sıradan, FREQ: 2
+WORD: i̇nsanlar, FREQ: 2
 WORD: sevgi, FREQ: 2
 WORD: sözcükleri, FREQ: 2
 WORD: kurtlarla, FREQ: 2
@@ -1684,8 +1680,6 @@ WORD: sadece, FREQ: 3
 WORD: georgia, FREQ: 3
 WORD: kuzey, FREQ: 3
 WORD: carolina, FREQ: 3
-WORD: amerika, FREQ: 3
-WORD: devletleri, FREQ: 3
 WORD: gösterimde, FREQ: 3
 WORD: akademi, FREQ: 3
 WORD: ödül, FREQ: 3
@@ -1696,6 +1690,7 @@ WORD: aday, FREQ: 3
 WORD: hakkında, FREQ: 3
 WORD: sahneler, FREQ: 3
 WORD: gerçek, FREQ: 3
+WORD: devletler, FREQ: 3
 WORD: çekimler, FREQ: 3
 WORD: gişe, FREQ: 3
 WORD: uyuşmazlık, FREQ: 3
@@ -1733,7 +1728,6 @@ WORD: yanı, FREQ: 3
 WORD: sıra, FREQ: 3
 WORD: night, FREQ: 3
 WORD: romanın, FREQ: 3
-WORD: and, FREQ: 3
 WORD: back, FREQ: 3
 WORD: future, FREQ: 3
 WORD: adam, FREQ: 3
@@ -1747,6 +1741,7 @@ WORD: alan, FREQ: 4
 WORD: yapım, FREQ: 4
 WORD: ler, FREQ: 4
 WORD: temmuz, FREQ: 4
+WORD: devletleri, FREQ: 4
 WORD: girdiği, FREQ: 4
 WORD: aldı, FREQ: 4
 WORD: yüksek, FREQ: 4
@@ -1754,7 +1749,6 @@ WORD: dallarında, FREQ: 4
 WORD: altın, FREQ: 4
 WORD: ödülü, FREQ: 4
 WORD: şirketi, FREQ: 4
-WORD: devletler, FREQ: 4
 WORD: devamı, FREQ: 4
 WORD: başlar, FREQ: 4
 WORD: bacak, FREQ: 4
@@ -1782,6 +1776,7 @@ WORD: çekilmiştir, FREQ: 5
 WORD: sahneleri, FREQ: 5
 WORD: efektler, FREQ: 5
 WORD: genelinde, FREQ: 5
+WORD: amerika, FREQ: 5
 WORD: elde, FREQ: 5
 WORD: hasıla, FREQ: 5
 WORD: aktör, FREQ: 5
@@ -1800,12 +1795,10 @@ WORD: kendisini, FREQ: 5
 WORD: forrest’a, FREQ: 5
 WORD: olur, FREQ: 5
 WORD: kısa, FREQ: 5
-WORD: rolünde, FREQ: 5
 WORD: özel, FREQ: 5
 WORD: üzerinde, FREQ: 5
 WORD: oluşan, FREQ: 5
 WORD: dolarlık, FREQ: 5
-WORD: to, FREQ: 5
 WORD: aşk, FREQ: 5
 WORD: efendisi, FREQ: 5
 WORD: robert, FREQ: 6
@@ -1834,8 +1827,6 @@ WORD: milyon, FREQ: 8
 WORD: dolar, FREQ: 8
 WORD: aynı, FREQ: 8
 WORD: olan, FREQ: 8
-WORD: iyi, FREQ: 8
-WORD: of, FREQ: 8
 WORD: yönetmen, FREQ: 9
 WORD: tarafından, FREQ: 9
 WORD: birlikte, FREQ: 9
@@ -1853,11 +1844,8 @@ WORD: i̇yi, FREQ: 11
 WORD: olarak, FREQ: 13
 WORD: jenny, FREQ: 15
 WORD: forrest’ın, FREQ: 15
-WORD: kaynağı, FREQ: 16
 WORD: ilk, FREQ: 16
 WORD: filmin, FREQ: 18
-WORD: değiştir, FREQ: 28
 WORD: gump, FREQ: 30
 WORD: film, FREQ: 38
-WORD: the, FREQ: 40
 WORD: forrest, FREQ: 51

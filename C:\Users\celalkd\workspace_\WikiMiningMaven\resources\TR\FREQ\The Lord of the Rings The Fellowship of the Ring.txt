@@ -676,8 +676,6 @@ WORD: diribaş, FREQ: 1
 WORD: sinematografi, FREQ: 1
 WORD: görsel, FREQ: 1
 WORD: efekt, FREQ: 1
-WORD: http, FREQ: 1
-WORD: www, FREQ: 1
 WORD: movies, FREQ: 1
 WORD: id, FREQ: 1
 WORD: fellowshipofthering, FREQ: 1
@@ -1049,7 +1047,6 @@ WORD: üzerinde, FREQ: 3
 WORD: sauron, FREQ: 3
 WORD: dünya, FREQ: 3
 WORD: ali, FREQ: 3
-WORD: com, FREQ: 3
 WORD: ler, FREQ: 3
 WORD: müzikleri, FREQ: 3
 WORD: boyens, FREQ: 4
@@ -1083,7 +1080,6 @@ WORD: filmin, FREQ: 5
 WORD: olması, FREQ: 5
 WORD: baggins, FREQ: 5
 WORD: aragorn, FREQ: 5
-WORD: of, FREQ: 6
 WORD: tolkien, FREQ: 6
 WORD: ian, FREQ: 6
 WORD: john, FREQ: 6
@@ -1100,15 +1096,12 @@ WORD: hobbit, FREQ: 7
 WORD: i̇yi, FREQ: 7
 WORD: walsh, FREQ: 8
 WORD: zelanda, FREQ: 8
-WORD: kaynağı, FREQ: 8
 WORD: olarak, FREQ: 10
 WORD: peter, FREQ: 11
 WORD: yeni, FREQ: 11
 WORD: olan, FREQ: 11
 WORD: kardeşliği, FREQ: 16
-WORD: değiştir, FREQ: 16
 WORD: yüzük, FREQ: 17
-WORD: the, FREQ: 18
 WORD: film, FREQ: 22
 WORD: jackson, FREQ: 24
 WORD: yüzüklerin, FREQ: 27

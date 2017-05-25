@@ -16,6 +16,7 @@ WORD: entertainment, FREQ: 1
 WORD: çıkış, FREQ: 1
 WORD: tarih, FREQ: 1
 WORD: ler, FREQ: 1
+WORD: b, FREQ: 1
 WORD: türkiye, FREQ: 1
 WORD: dk, FREQ: 1
 WORD: ülke, FREQ: 1
@@ -448,7 +449,6 @@ WORD: dalda, FREQ: 1
 WORD: oscar, FREQ: 1
 WORD: ödülüne, FREQ: 1
 WORD: baş, FREQ: 1
-WORD: rolünde, FREQ: 1
 WORD: tom, FREQ: 1
 WORD: hanks, FREQ: 1
 WORD: oynadığı, FREQ: 1
@@ -497,6 +497,7 @@ WORD: prodüksiyonu, FREQ: 1
 WORD: londra, FREQ: 1
 WORD: turne, FREQ: 1
 WORD: yapmıştır, FREQ: 1
+WORD: türkçeye, FREQ: 1
 WORD: nazlı, FREQ: 1
 WORD: gözde, FREQ: 1
 WORD: yolcu, FREQ: 1
@@ -525,12 +526,14 @@ WORD: co, FREQ: 1
 WORD: details, FREQ: 1
 WORD: php, FREQ: 1
 WORD: microsite, FREQ: 1
+WORD: türkçe, FREQ: 1
 WORD: sinemalar, FREQ: 1
 WORD: filmi, FREQ: 1
 WORD: taslaktır, FREQ: 1
 WORD: içeriğini, FREQ: 1
 WORD: geliştirerek, FREQ: 1
 WORD: vikipedi, FREQ: 1
+WORD: ye, FREQ: 1
 WORD: katkıda, FREQ: 1
 WORD: bulunabilirsiniz, FREQ: 1
 WORD: bob, FREQ: 2
@@ -544,7 +547,6 @@ WORD: bellows, FREQ: 2
 WORD: james, FREQ: 2
 WORD: whitmore, FREQ: 2
 WORD: eylül, FREQ: 2
-WORD: b, FREQ: 2
 WORD: mart, FREQ: 2
 WORD: abd, FREQ: 2
 WORD: i̇ngilizce, FREQ: 2
@@ -627,8 +629,6 @@ WORD: internet, FREQ: 2
 WORD: oyun, FREQ: 2
 WORD: sahnelenmiş, FREQ: 2
 WORD: kenwright, FREQ: 2
-WORD: türkçe, FREQ: 2
-WORD: ye, FREQ: 2
 WORD: tarihinde, FREQ: 2
 WORD: web, FREQ: 2
 WORD: id, FREQ: 2
@@ -659,7 +659,6 @@ WORD: ziyaret, FREQ: 3
 WORD: görüyorlar, FREQ: 3
 WORD: delik, FREQ: 3
 WORD: çıkıyor, FREQ: 3
-WORD: the, FREQ: 4
 WORD: stephen, FREQ: 4
 WORD: king, FREQ: 4
 WORD: adlı, FREQ: 4
@@ -673,20 +672,14 @@ WORD: eşi, FREQ: 4
 WORD: şartlı, FREQ: 4
 WORD: hücreye, FREQ: 4
 WORD: doğru, FREQ: 4
-WORD: www, FREQ: 4
 WORD: tommy, FREQ: 5
 WORD: söylüyor, FREQ: 5
-WORD: com, FREQ: 5
 WORD: redemption, FREQ: 6
-WORD: iyi, FREQ: 6
 WORD: olan, FREQ: 6
-WORD: kaynağı, FREQ: 6
 WORD: olduğunu, FREQ: 6
-WORD: http, FREQ: 6
 WORD: para, FREQ: 7
 WORD: norton, FREQ: 7
 WORD: shawshank, FREQ: 10
 WORD: film, FREQ: 10
 WORD: red, FREQ: 11
-WORD: değiştir, FREQ: 12
 WORD: andy, FREQ: 43

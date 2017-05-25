@@ -3,7 +3,6 @@ package com.tez.domain;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Archive {
 	
@@ -48,8 +47,9 @@ public class Archive {
 				movie.setWikiURL_EN("https://en.wikipedia.org/wiki/"+linkExtension);//ba�lang�� ENG wiki linki
 				movie.setActiveWikiLink();//aktif olan film linki bulunur
 				movie.setActiveVikiURL();//aktif linkin t�rk�e sayfas� bulunur
-				movie.setPlot(movie.getWikiURL_EN());
-				InfoBox infoBox = new InfoBox(movie.getWikiURL_EN());
+				movie.setPlot_ENG();
+                                movie.setPlot_TR();
+				InfoBox infoBox = new InfoBox(movie.getWikiURL_EN(), movie.getVikiURL_TR());
 				movie.setInfoBox(infoBox);				
 				
 				movieArchive.add(movie);//t�m filmler obje olarak listeye at�ld�
@@ -114,8 +114,7 @@ public class Archive {
 			movie.setVerified(verified);			
 			if(verified)
 				movie.setVerifySuccess(movie.getVerifySuccess()+1);	
-			
-			System.out.println(movie+"\nVerified: "+movie.getVerified());			
+					
 			id_index++;
 		}
 		
@@ -123,6 +122,7 @@ public class Archive {
 	public void writeWordsToFile(String language) throws IOException{
 		//dil se�ene�ine g�re ayn� i�lem farkl� kelime listeleri �zerinde yap�l�r
 		for(Movie movie : this.getMovieArchive()){
+                    //System.out.println(movie.getInfoBox().getTitle());
 			if(language.equals("TR")){
 				String textBody = movie.setAndReturnContext(movie.getVikiURL_TR(),language);				
 				movie.splitContextToWords(textBody, movie.getWordListTr(), language);				
@@ -134,28 +134,7 @@ public class Archive {
 		}
 		FileIO.getFileIO().writeWordsAndFreqsToFile(language);//ar�iv �zerinden t�m film nesneleri i�in
 	}
-	/*public void createWordRedis() throws IOException{
-		
-		Redis redis = new Redis();
-		redis.jedis.flushAll();
-		System.out.println("f");
-		
-		for(Movie movie : this.getMovieArchive()){			
-			
-			System.out.println(movie.getInfoBox().getTitle()+" Redis");
-			
-			redis.jedis.select(0);
-			String textBody = movie.findContext(movie.getVikiURL_TR(),"TR");				
-			movie.splitContext(textBody, movie.getWordListTr(), "TR");
-			redis.createWordFreqStore(movie, movie.getWordListTr());	
-			
-			redis.jedis.select(1);
-			
-			textBody = movie.findContext(movie.getWikiURL_EN(),"ENG");
-			movie.splitContext(textBody, movie.getWordListEng(),"ENG");	
-			redis.createWordFreqStore(movie, movie.getWordListEng());
-		}	
-	}*/
+	
 	
 	
 }

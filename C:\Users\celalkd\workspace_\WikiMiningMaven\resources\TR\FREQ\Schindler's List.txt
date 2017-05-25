@@ -426,7 +426,7 @@ WORD: tamamladıktan, FREQ: 1
 WORD: taslağını, FREQ: 1
 WORD: sayfaya, FREQ: 1
 WORD: çıkarmasını, FREQ: 1
-WORD: hikayede, FREQ: 1
+WORD: hikâyede, FREQ: 1
 WORD: durulmasını, FREQ: 1
 WORD: değişiminin, FREQ: 1
 WORD: ani, FREQ: 1
@@ -942,7 +942,6 @@ WORD: devlet, FREQ: 1
 WORD: adamlarının, FREQ: 1
 WORD: olanları, FREQ: 1
 WORD: bilip, FREQ: 1
-WORD: hiçbir, FREQ: 1
 WORD: yapmamalarını, FREQ: 1
 WORD: belirtmeyi, FREQ: 1
 WORD: amaçladığını, FREQ: 1
@@ -1196,7 +1195,7 @@ WORD: books, FREQ: 1
 WORD: eleştirisinde, FREQ: 1
 WORD: britanyalı, FREQ: 1
 WORD: eleştirmen, FREQ: 1
-WORD: hikayenin, FREQ: 1
+WORD: hikâyenin, FREQ: 1
 WORD: aşırı, FREQ: 1
 WORD: duygusallaştırıldığına, FREQ: 1
 WORD: korkusunu, FREQ: 1
@@ -1434,7 +1433,7 @@ WORD: kampından, FREQ: 1
 WORD: annesinin, FREQ: 1
 WORD: kitlelerce, FREQ: 1
 WORD: izlenecek, FREQ: 1
-WORD: hikayesinin, FREQ: 1
+WORD: hikâyesinin, FREQ: 1
 WORD: anlatıldığı, FREQ: 1
 WORD: şükran, FREQ: 1
 WORD: duyduğunu, FREQ: 1
@@ -2130,7 +2129,7 @@ WORD: hans, FREQ: 2
 WORD: oliwia, FREQ: 2
 WORD: schindlerjuden, FREQ: 2
 WORD: yahudisi, FREQ: 2
-WORD: hikayesini, FREQ: 2
+WORD: hikâyesini, FREQ: 2
 WORD: biyografik, FREQ: 2
 WORD: filmini, FREQ: 2
 WORD: ta, FREQ: 2
@@ -2161,7 +2160,7 @@ WORD: tercih, FREQ: 2
 WORD: almayı, FREQ: 2
 WORD: reddetti, FREQ: 2
 WORD: sayfalık, FREQ: 2
-WORD: hikayeyi, FREQ: 2
+WORD: hikâyeyi, FREQ: 2
 WORD: luedtke, FREQ: 2
 WORD: yazması, FREQ: 2
 WORD: buldu, FREQ: 2
@@ -2396,7 +2395,6 @@ WORD: kramer, FREQ: 2
 WORD: sırları, FREQ: 2
 WORD: sosyal, FREQ: 2
 WORD: ağ, FREQ: 2
-WORD: to, FREQ: 2
 WORD: i̇nsanlık, FREQ: 2
 WORD: thomas, FREQ: 3
 WORD: uyarlama, FREQ: 3
@@ -2487,6 +2485,7 @@ WORD: eden, FREQ: 3
 WORD: özel, FREQ: 3
 WORD: duş, FREQ: 3
 WORD: söyledi, FREQ: 3
+WORD: b, FREQ: 3
 WORD: katkı, FREQ: 3
 WORD: tom, FREQ: 3
 WORD: aşağı, FREQ: 3
@@ -2515,7 +2514,6 @@ WORD: televizyon, FREQ: 3
 WORD: ateş, FREQ: 3
 WORD: freer, FREQ: 3
 WORD: erişim, FREQ: 3
-WORD: www, FREQ: 3
 WORD: crowe, FREQ: 3
 WORD: loshitsky, FREQ: 3
 WORD: indiana, FREQ: 3
@@ -2556,6 +2554,7 @@ WORD: duygusal, FREQ: 4
 WORD: belgesel, FREQ: 4
 WORD: müziği, FREQ: 4
 WORD: deki, FREQ: 4
+WORD: hiçbir, FREQ: 4
 WORD: belirtir, FREQ: 4
 WORD: shabbat, FREQ: 4
 WORD: chicago, FREQ: 4
@@ -2571,7 +2570,6 @@ WORD: yayını, FREQ: 4
 WORD: org, FREQ: 4
 WORD: web, FREQ: 4
 WORD: jones, FREQ: 4
-WORD: and, FREQ: 4
 WORD: müzik, FREQ: 5
 WORD: janusz, FREQ: 5
 WORD: savaş, FREQ: 5
@@ -2615,7 +2613,6 @@ WORD: critics, FREQ: 5
 WORD: angeles, FREQ: 5
 WORD: adam, FREQ: 5
 WORD: tv, FREQ: 5
-WORD: com, FREQ: 5
 WORD: aşk, FREQ: 5
 WORD: branko, FREQ: 6
 WORD: lustig, FREQ: 6
@@ -2662,7 +2659,6 @@ WORD: filme, FREQ: 7
 WORD: sadece, FREQ: 7
 WORD: yardımcı, FREQ: 7
 WORD: lar, FREQ: 7
-WORD: http, FREQ: 7
 WORD: yapımcı, FREQ: 8
 WORD: zaillian, FREQ: 8
 WORD: john, FREQ: 8
@@ -2696,27 +2692,21 @@ WORD: demiştir, FREQ: 11
 WORD: mintz, FREQ: 11
 WORD: erkek, FREQ: 11
 WORD: neeson, FREQ: 12
-WORD: of, FREQ: 12
 WORD: fiennes, FREQ: 13
 WORD: ss, FREQ: 13
 WORD: palowski, FREQ: 13
 WORD: adaylık, FREQ: 14
-WORD: iyi, FREQ: 16
 WORD: amerikan, FREQ: 17
 WORD: oyuncu, FREQ: 17
 WORD: mcbride, FREQ: 18
 WORD: yahudi, FREQ: 19
-WORD: b, FREQ: 21
 WORD: steven, FREQ: 22
-WORD: the, FREQ: 23
-WORD: kaynağı, FREQ: 24
 WORD: kazandı, FREQ: 24
 WORD: filmin, FREQ: 28
 WORD: holocaust, FREQ: 31
 WORD: filmi, FREQ: 33
 WORD: listesi, FREQ: 36
 WORD: olarak, FREQ: 39
-WORD: değiştir, FREQ: 46
 WORD: i̇yi, FREQ: 57
 WORD: film, FREQ: 72
 WORD: spielberg, FREQ: 77

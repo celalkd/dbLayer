@@ -355,10 +355,10 @@ WORD: hafta, FREQ: 1
 WORD: sınıf, FREQ: 1
 WORD: beyaz, FREQ: 1
 WORD: bant, FREQ: 1
-WORD: lung, FREQ: 1
-WORD: bunmi, FREQ: 1
-WORD: raluek, FREQ: 1
-WORD: chat, FREQ: 1
+WORD: amcam, FREQ: 1
+WORD: önceki, FREQ: 1
+WORD: hayatlarını, FREQ: 1
+WORD: hatırlıyor, FREQ: 1
 WORD: ağacı, FREQ: 1
 WORD: mavi, FREQ: 1
 WORD: sıcak, FREQ: 1
@@ -599,8 +599,6 @@ WORD: mad, FREQ: 1
 WORD: max, FREQ: 1
 WORD: fury, FREQ: 1
 WORD: road, FREQ: 1
-WORD: http, FREQ: 1
-WORD: com, FREQ: 1
 WORD: chart, FREQ: 1
 WORD: top, FREQ: 1
 WORD: roger, FREQ: 2
@@ -614,7 +612,6 @@ WORD: stoltz, FREQ: 2
 WORD: abd, FREQ: 2
 WORD: i̇ngilizce, FREQ: 2
 WORD: milyon, FREQ: 2
-WORD: iyi, FREQ: 2
 WORD: altın, FREQ: 2
 WORD: palmiye, FREQ: 2
 WORD: filmleri, FREQ: 2
@@ -704,9 +701,7 @@ WORD: los, FREQ: 3
 WORD: angeles, FREQ: 3
 WORD: quentin, FREQ: 4
 WORD: tarantino, FREQ: 4
-WORD: kaynağı, FREQ: 4
 WORD: wallace, FREQ: 4
-WORD: to, FREQ: 4
 WORD: pulp, FREQ: 5
 WORD: fiction, FREQ: 5
 WORD: ödülü, FREQ: 5
@@ -715,10 +710,5 @@ WORD: gün, FREQ: 5
 WORD: aşk, FREQ: 6
 WORD: i̇yi, FREQ: 7
 WORD: film, FREQ: 8
-WORD: değiştir, FREQ: 8
-WORD: and, FREQ: 8
 WORD: roman, FREQ: 10
-WORD: rolünde, FREQ: 10
 WORD: ucuz, FREQ: 11
-WORD: of, FREQ: 11
-WORD: the, FREQ: 33

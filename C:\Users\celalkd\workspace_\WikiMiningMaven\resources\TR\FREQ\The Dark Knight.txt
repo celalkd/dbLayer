@@ -1809,6 +1809,7 @@ WORD: match, FREQ: 1
 WORD: miksaj, FREQ: 1
 WORD: çığlık, FREQ: 1
 WORD: ultimate, FREQ: 1
+WORD: x, FREQ: 1
 WORD: kitap, FREQ: 1
 WORD: big, FREQ: 1
 WORD: rig, FREQ: 1
@@ -1953,9 +1954,10 @@ WORD: celebrate, FREQ: 1
 WORD: work, FREQ: 1
 WORD: ucubeyiz, FREQ: 1
 WORD: i̇şte, FREQ: 1
+WORD: ss, FREQ: 1
 WORD: stiles, FREQ: 1
 WORD: omen, FREQ: 1
-WORD: file, FREQ: 1
+WORD: dosya, FREQ: 1
 WORD: brad, FREQ: 1
 WORD: pitt, FREQ: 1
 WORD: chevy, FREQ: 1
@@ -2234,12 +2236,6 @@ WORD: editordenid, FREQ: 1
 WORD: detay, FREQ: 1
 WORD: eleştirisi, FREQ: 1
 WORD: greatest, FREQ: 1
-WORD: q, FREQ: 1
-WORD: aa, FREQ: 1
-WORD: ab, FREQ: 1
-WORD: ac, FREQ: 1
-WORD: ae, FREQ: 1
-WORD: af, FREQ: 1
 WORD: critic, FREQ: 1
 WORD: lists, FREQ: 1
 WORD: toptens, FREQ: 1
@@ -2530,6 +2526,7 @@ WORD: müzikleri, FREQ: 2
 WORD: oluşturuldu, FREQ: 2
 WORD: kurgusunu, FREQ: 2
 WORD: babcock, FREQ: 2
+WORD: w, FREQ: 2
 WORD: mitchell, FREQ: 2
 WORD: hamilton, FREQ: 2
 WORD: sterling, FREQ: 2
@@ -2707,6 +2704,7 @@ WORD: lük, FREQ: 2
 WORD: gösterimler, FREQ: 2
 WORD: ülke, FREQ: 2
 WORD: çevrilmiş, FREQ: 2
+WORD: ad, FREQ: 2
 WORD: caballero, FREQ: 2
 WORD: oscuro, FREQ: 2
 WORD: leri, FREQ: 2
@@ -2773,7 +2771,6 @@ WORD: fragmanı, FREQ: 2
 WORD: up, FREQ: 2
 WORD: satellite, FREQ: 2
 WORD: scream, FREQ: 2
-WORD: x, FREQ: 2
 WORD: düşman, FREQ: 2
 WORD: you, FREQ: 2
 WORD: makes, FREQ: 2
@@ -2985,6 +2982,7 @@ WORD: kabul, FREQ: 3
 WORD: gün, FREQ: 3
 WORD: düzenlediği, FREQ: 3
 WORD: gillian, FREQ: 3
+WORD: b, FREQ: 3
 WORD: korumaya, FREQ: 3
 WORD: kurtarır, FREQ: 3
 WORD: önüne, FREQ: 3
@@ -3016,7 +3014,6 @@ WORD: yönetmenliğini, FREQ: 3
 WORD: la, FREQ: 3
 WORD: lindy, FREQ: 3
 WORD: lando, FREQ: 3
-WORD: w, FREQ: 3
 WORD: williams, FREQ: 3
 WORD: conway, FREQ: 3
 WORD: araba, FREQ: 3
@@ -3094,7 +3091,6 @@ WORD: örümcek, FREQ: 3
 WORD: rekorunu, FREQ: 3
 WORD: salonundan, FREQ: 3
 WORD: günde, FREQ: 3
-WORD: ad, FREQ: 3
 WORD: sunuldu, FREQ: 3
 WORD: piyasaya, FREQ: 3
 WORD: yaratımı, FREQ: 3
@@ -3460,7 +3456,6 @@ WORD: açıkladı, FREQ: 9
 WORD: company, FREQ: 9
 WORD: nisan, FREQ: 9
 WORD: bat, FREQ: 9
-WORD: to, FREQ: 9
 WORD: derneği, FREQ: 9
 WORD: corporation, FREQ: 9
 WORD: co, FREQ: 9
@@ -3480,7 +3475,6 @@ WORD: oyuncu, FREQ: 10
 WORD: fazla, FREQ: 10
 WORD: haziran, FREQ: 10
 WORD: movie, FREQ: 10
-WORD: and, FREQ: 10
 WORD: categoryid, FREQ: 10
 WORD: sasha, FREQ: 10
 WORD: uk, FREQ: 10
@@ -3488,7 +3482,6 @@ WORD: jonathan, FREQ: 11
 WORD: gyllenhaal, FREQ: 11
 WORD: müzik, FREQ: 11
 WORD: yönetmeni, FREQ: 11
-WORD: iyi, FREQ: 11
 WORD: müdürü, FREQ: 11
 WORD: söyler, FREQ: 11
 WORD: aldı, FREQ: 11
@@ -3543,7 +3536,6 @@ WORD: zimmer, FREQ: 16
 WORD: filmde, FREQ: 16
 WORD: milyon, FREQ: 16
 WORD: yazdı, FREQ: 16
-WORD: of, FREQ: 16
 WORD: ağustos, FREQ: 16
 WORD: kazanamadı, FREQ: 16
 WORD: article, FREQ: 16
@@ -3559,7 +3551,6 @@ WORD: dolar, FREQ: 18
 WORD: ayrıca, FREQ: 18
 WORD: dan, FREQ: 18
 WORD: articles, FREQ: 18
-WORD: rolünde, FREQ: 19
 WORD: yorumu, FREQ: 19
 WORD: id, FREQ: 19
 WORD: rachel, FREQ: 20
@@ -3569,16 +3560,13 @@ WORD: michael, FREQ: 21
 WORD: wayne, FREQ: 21
 WORD: bruce, FREQ: 22
 WORD: gordon, FREQ: 22
-WORD: kaynağı, FREQ: 22
 WORD: dvd, FREQ: 22
 WORD: ign, FREQ: 23
 WORD: critics, FREQ: 23
-WORD: b, FREQ: 24
 WORD: ödülleri, FREQ: 25
 WORD: new, FREQ: 25
 WORD: movies, FREQ: 25
 WORD: james, FREQ: 26
-WORD: variety, FREQ: 26
 WORD: eleştirmenleri, FREQ: 26
 WORD: awardsdaily, FREQ: 26
 WORD: sinema, FREQ: 29
@@ -3597,7 +3585,6 @@ WORD: christopher, FREQ: 40
 WORD: filmi, FREQ: 41
 WORD: html, FREQ: 42
 WORD: temmuz, FREQ: 43
-WORD: değiştir, FREQ: 44
 WORD: filmin, FREQ: 48
 WORD: warner, FREQ: 49
 WORD: news, FREQ: 49
@@ -3618,14 +3605,10 @@ WORD: nolan, FREQ: 80
 WORD: ledger, FREQ: 81
 WORD: şubat, FREQ: 89
 WORD: kazandı, FREQ: 91
-WORD: the, FREQ: 105
 WORD: web, FREQ: 107
-WORD: www, FREQ: 110
 WORD: batman, FREQ: 111
 WORD: joker, FREQ: 120
 WORD: film, FREQ: 122
 WORD: erişim, FREQ: 128
 WORD: tarihi, FREQ: 128
 WORD: i̇yi, FREQ: 136
-WORD: com, FREQ: 157
-WORD: http, FREQ: 195

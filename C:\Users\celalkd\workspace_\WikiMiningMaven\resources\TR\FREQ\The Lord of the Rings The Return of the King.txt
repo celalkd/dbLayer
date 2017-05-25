@@ -345,7 +345,8 @@ WORD: love, FREQ: 1
 WORD: story, FREQ: 1
 WORD: kanunun, FREQ: 1
 WORD: kuvveti, FREQ: 1
-WORD: godfather, FREQ: 1
+WORD: baba, FREQ: 1
+WORD: roman, FREQ: 1
 WORD: exorcist, FREQ: 1
 WORD: çin, FREQ: 1
 WORD: mahallesi, FREQ: 1
@@ -356,12 +357,9 @@ WORD: turning, FREQ: 1
 WORD: point, FREQ: 1
 WORD: geceyarısı, FREQ: 1
 WORD: ekspresi, FREQ: 1
-WORD: vs, FREQ: 1
-WORD: ordinary, FREQ: 1
-WORD: people, FREQ: 1
+WORD: karşı, FREQ: 1
+WORD: sıradan, FREQ: 1
 WORD: göl, FREQ: 1
-WORD: extra, FREQ: 1
-WORD: terrestrial, FREQ: 1
 WORD: sevgi, FREQ: 1
 WORD: sözcükleri, FREQ: 1
 WORD: amadeus, FREQ: 1
@@ -466,7 +464,6 @@ WORD: hobbitler, FREQ: 1
 WORD: elfler, FREQ: 1
 WORD: orklar, FREQ: 1
 WORD: cüceler, FREQ: 1
-WORD: i̇nsanlar, FREQ: 1
 WORD: entler, FREQ: 1
 WORD: maiarlar, FREQ: 1
 WORD: istariler, FREQ: 1
@@ -489,8 +486,6 @@ WORD: húrin, FREQ: 1
 WORD: çocukları, FREQ: 1
 WORD: tehlikeli, FREQ: 1
 WORD: diyardan, FREQ: 1
-WORD: http, FREQ: 1
-WORD: www, FREQ: 1
 WORD: boxofficemojo, FREQ: 1
 WORD: movies, FREQ: 1
 WORD: id, FREQ: 1
@@ -556,7 +551,6 @@ WORD: arwen, FREQ: 2
 WORD: elrond, FREQ: 2
 WORD: faramir, FREQ: 2
 WORD: kurgusu, FREQ: 2
-WORD: com, FREQ: 2
 WORD: küre, FREQ: 2
 WORD: drama, FREQ: 2
 WORD: chicago, FREQ: 2
@@ -579,6 +573,7 @@ WORD: ölümcül, FREQ: 2
 WORD: tuzak, FREQ: 2
 WORD: cennet, FREQ: 2
 WORD: kramer, FREQ: 2
+WORD: i̇nsanlar, FREQ: 2
 WORD: er, FREQ: 2
 WORD: ryan, FREQ: 2
 WORD: kurtarmak, FREQ: 2
@@ -605,7 +600,6 @@ WORD: gamgee, FREQ: 3
 WORD: gollum, FREQ: 3
 WORD: oldu, FREQ: 3
 WORD: amerikan, FREQ: 3
-WORD: kaynağı, FREQ: 3
 WORD: ali, FREQ: 3
 WORD: kral, FREQ: 3
 WORD: altın, FREQ: 3
@@ -626,11 +620,9 @@ WORD: filmi, FREQ: 5
 WORD: peter, FREQ: 6
 WORD: kule, FREQ: 6
 WORD: hobbit, FREQ: 6
-WORD: değiştir, FREQ: 6
 WORD: gelen, FREQ: 6
 WORD: i̇ki, FREQ: 7
 WORD: yüzük, FREQ: 7
-WORD: of, FREQ: 9
 WORD: kralın, FREQ: 14
 WORD: dönüşü, FREQ: 14
 WORD: akademi, FREQ: 15
@@ -639,4 +631,3 @@ WORD: ödülü, FREQ: 20
 WORD: yüzüklerin, FREQ: 24
 WORD: efendisi, FREQ: 24
 WORD: film, FREQ: 27
-WORD: the, FREQ: 29

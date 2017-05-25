@@ -34,7 +34,8 @@ WORD: nature, FREQ: 1
 WORD: consequent, FREQ: 1
 WORD: sweeping, FREQ: 1
 WORD: field, FREQ: 1
-WORD: praised, FREQ: 1
+WORD: praise, FREQ: 1
+WORD: singled, FREQ: 1
 WORD: reflexivity, FREQ: 1
 WORD: unconventional, FREQ: 1
 WORD: extensive, FREQ: 1
@@ -65,7 +66,6 @@ WORD: allowing, FREQ: 1
 WORD: throughout, FREQ: 1
 WORD: analysts, FREQ: 1
 WORD: arrive, FREQ: 1
-WORD: retrieve, FREQ: 1
 WORD: checks, FREQ: 1
 WORD: associates, FREQ: 1
 WORD: declaims, FREQ: 1
@@ -87,6 +87,8 @@ WORD: revive, FREQ: 1
 WORD: double, FREQ: 1
 WORD: wins, FREQ: 1
 WORD: bout, FREQ: 1
+WORD: opponent, FREQ: 1
+WORD: process, FREQ: 1
 WORD: lying, FREQ: 1
 WORD: discovers, FREQ: 1
 WORD: forgotten, FREQ: 1
@@ -95,14 +97,14 @@ WORD: beloved, FREQ: 1
 WORD: heirloom, FREQ: 1
 WORD: flies, FREQ: 1
 WORD: rage, FREQ: 1
+WORD: returning, FREQ: 1
 WORD: kitchen, FREQ: 1
 WORD: hears, FREQ: 1
 WORD: flush, FREQ: 1
 WORD: exits, FREQ: 1
 WORD: waits, FREQ: 1
 WORD: traffic, FREQ: 1
-WORD: walks, FREQ: 1
-WORD: recognizes, FREQ: 1
+WORD: spots, FREQ: 1
 WORD: chases, FREQ: 1
 WORD: owner, FREQ: 1
 WORD: captures, FREQ: 1
@@ -114,6 +116,7 @@ WORD: knocks, FREQ: 1
 WORD: flee, FREQ: 1
 WORD: save, FREQ: 1
 WORD: rapes, FREQ: 1
+WORD: retrieves, FREQ: 1
 WORD: shotgun, FREQ: 1
 WORD: informs, FREQ: 1
 WORD: departs, FREQ: 1
@@ -663,14 +666,14 @@ WORD: indisputably, FREQ: 1
 WORD: attained, FREQ: 1
 WORD: exceptionally, FREQ: 1
 WORD: ratings, FREQ: 1
-WORD: sites, FREQ: 1
+WORD: site, FREQ: 1
 WORD: consensus, FREQ: 1
 WORD: delirious, FREQ: 1
 WORD: mix, FREQ: 1
 WORD: thrills, FREQ: 1
 WORD: pitch, FREQ: 1
 WORD: touchstones, FREQ: 1
-WORD: metascore, FREQ: 1
+WORD: average, FREQ: 1
 WORD: outlets, FREQ: 1
 WORD: publish, FREQ: 1
 WORD: negative, FREQ: 1
@@ -1861,6 +1864,7 @@ WORD: mueller, FREQ: 1
 WORD: presents, FREQ: 1
 WORD: guest, FREQ: 1
 WORD: commonweal, FREQ: 1
+WORD: permanent, FREQ: 1
 WORD: april–may, FREQ: 1
 WORD: transcendence, FREQ: 1
 WORD: papers, FREQ: 1
@@ -2199,6 +2203,7 @@ WORD: games, FREQ: 1
 WORD: catching, FREQ: 1
 WORD: fault, FREQ: 1
 WORD: awakens, FREQ: 1
+WORD: beauty, FREQ: 1
 WORD: hours, FREQ: 1
 WORD: platoon, FREQ: 1
 WORD: river, FREQ: 1
@@ -2305,6 +2310,7 @@ WORD: points, FREQ: 2
 WORD: adding, FREQ: 2
 WORD: separate, FREQ: 2
 WORD: hitmen, FREQ: 2
+WORD: retrieve, FREQ: 2
 WORD: boss, FREQ: 2
 WORD: boxer, FREQ: 2
 WORD: large, FREQ: 2
@@ -2319,7 +2325,6 @@ WORD: cocaine, FREQ: 2
 WORD: overdoses, FREQ: 2
 WORD: crosses, FREQ: 2
 WORD: motel, FREQ: 2
-WORD: retrieves, FREQ: 2
 WORD: notices, FREQ: 2
 WORD: counter, FREQ: 2
 WORD: pawnshop, FREQ: 2
@@ -2461,7 +2466,6 @@ WORD: pandemonium, FREQ: 2
 WORD: reigns, FREQ: 2
 WORD: basis, FREQ: 2
 WORD: returned, FREQ: 2
-WORD: chance, FREQ: 2
 WORD: explains, FREQ: 2
 WORD: basically, FREQ: 2
 WORD: guy, FREQ: 2
@@ -2499,7 +2503,6 @@ WORD: grill, FREQ: 2
 WORD: cereal, FREQ: 2
 WORD: accept, FREQ: 2
 WORD: advertising, FREQ: 2
-WORD: score, FREQ: 2
 WORD: surf, FREQ: 2
 WORD: soul, FREQ: 2
 WORD: songs, FREQ: 2
@@ -2545,7 +2548,6 @@ WORD: cult, FREQ: 2
 WORD: achieved, FREQ: 2
 WORD: reviewers, FREQ: 2
 WORD: noses, FREQ: 2
-WORD: screenwriting, FREQ: 2
 WORD: formulas, FREQ: 2
 WORD: towers, FREQ: 2
 WORD: smart, FREQ: 2
@@ -2723,6 +2725,7 @@ WORD: sword, FREQ: 2
 WORD: conclusion, FREQ: 2
 WORD: echoes, FREQ: 2
 WORD: siegel, FREQ: 2
+WORD: particularly, FREQ: 2
 WORD: difference, FREQ: 2
 WORD: observed, FREQ: 2
 WORD: focuses, FREQ: 2
@@ -2884,7 +2887,7 @@ WORD: including, FREQ: 3
 WORD: development, FREQ: 3
 WORD: distribution, FREQ: 3
 WORD: regarded, FREQ: 3
-WORD: particularly, FREQ: 3
+WORD: screenwriting, FREQ: 3
 WORD: led, FREQ: 3
 WORD: considered, FREQ: 3
 WORD: watershed, FREQ: 3
@@ -2897,6 +2900,7 @@ WORD: links, FREQ: 3
 WORD: follows, FREQ: 3
 WORD: partner, FREQ: 3
 WORD: ways, FREQ: 3
+WORD: returns, FREQ: 3
 WORD: primary, FREQ: 3
 WORD: ii, FREQ: 3
 WORD: parker, FREQ: 3
@@ -2910,6 +2914,7 @@ WORD: snorts, FREQ: 3
 WORD: adrenaline, FREQ: 3
 WORD: girlfriend, FREQ: 3
 WORD: low, FREQ: 3
+WORD: chance, FREQ: 3
 WORD: joined, FREQ: 3
 WORD: room, FREQ: 3
 WORD: silent, FREQ: 3
@@ -2981,7 +2986,6 @@ WORD: bailey, FREQ: 3
 WORD: born, FREQ: 3
 WORD: la, FREQ: 3
 WORD: murder, FREQ: 3
-WORD: beast, FREQ: 3
 WORD: psycho, FREQ: 3
 WORD: shop, FREQ: 3
 WORD: captain, FREQ: 3
@@ -3018,6 +3022,7 @@ WORD: hawthorne, FREQ: 3
 WORD: jean, FREQ: 3
 WORD: credit, FREQ: 3
 WORD: line, FREQ: 3
+WORD: score, FREQ: 3
 WORD: composed, FREQ: 3
 WORD: billboard, FREQ: 3
 WORD: highest, FREQ: 3
@@ -3177,6 +3182,7 @@ WORD: marketing, FREQ: 4
 WORD: masterpiece, FREQ: 4
 WORD: homage, FREQ: 4
 WORD: pastiche, FREQ: 4
+WORD: writing, FREQ: 4
 WORD: financing, FREQ: 4
 WORD: notable, FREQ: 4
 WORD: bible, FREQ: 4
@@ -3184,7 +3190,6 @@ WORD: notes, FREQ: 4
 WORD: protagonist, FREQ: 4
 WORD: third, FREQ: 4
 WORD: hold, FREQ: 4
-WORD: returns, FREQ: 4
 WORD: bonnie, FREQ: 4
 WORD: situation, FREQ: 4
 WORD: apartment, FREQ: 4
@@ -3206,7 +3211,6 @@ WORD: michael, FREQ: 4
 WORD: madsen, FREQ: 4
 WORD: daniel, FREQ: 4
 WORD: audition, FREQ: 4
-WORD: reading, FREQ: 4
 WORD: final, FREQ: 4
 WORD: social, FREQ: 4
 WORD: notion, FREQ: 4
@@ -3237,6 +3241,7 @@ WORD: saw, FREQ: 4
 WORD: curdled, FREQ: 4
 WORD: length, FREQ: 4
 WORD: stephen, FREQ: 4
+WORD: beast, FREQ: 4
 WORD: reference, FREQ: 4
 WORD: fourth, FREQ: 4
 WORD: single, FREQ: 4
@@ -3249,7 +3254,6 @@ WORD: don, FREQ: 4
 WORD: gotta, FREQ: 4
 WORD: kiss, FREQ: 4
 WORD: deadly, FREQ: 4
-WORD: link, FREQ: 4
 WORD: hidden, FREQ: 4
 WORD: week, FREQ: 4
 WORD: general, FREQ: 4
@@ -3326,7 +3330,6 @@ WORD: opening, FREQ: 5
 WORD: moments, FREQ: 5
 WORD: devoted, FREQ: 5
 WORD: humor, FREQ: 5
-WORD: writing, FREQ: 5
 WORD: various, FREQ: 5
 WORD: elements, FREQ: 5
 WORD: significant, FREQ: 5
@@ -3334,7 +3337,6 @@ WORD: contents, FREQ: 5
 WORD: analysis, FREQ: 5
 WORD: coolidge, FREQ: 5
 WORD: couple, FREQ: 5
-WORD: gold, FREQ: 5
 WORD: philip, FREQ: 5
 WORD: circular, FREQ: 5
 WORD: gangster, FREQ: 5
@@ -3347,6 +3349,7 @@ WORD: marvin, FREQ: 5
 WORD: biblical, FREQ: 5
 WORD: instead, FREQ: 5
 WORD: idea, FREQ: 5
+WORD: reading, FREQ: 5
 WORD: performance, FREQ: 5
 WORD: club, FREQ: 5
 WORD: said, FREQ: 5
@@ -3368,6 +3371,7 @@ WORD: woman, FREQ: 5
 WORD: actually, FREQ: 5
 WORD: real, FREQ: 5
 WORD: case, FREQ: 5
+WORD: link, FREQ: 5
 WORD: january, FREQ: 5
 WORD: french, FREQ: 5
 WORD: rock, FREQ: 5
@@ -3418,6 +3422,7 @@ WORD: reputation, FREQ: 6
 WORD: main, FREQ: 6
 WORD: winnfield, FREQ: 6
 WORD: sequences, FREQ: 6
+WORD: gold, FREQ: 6
 WORD: shoots, FREQ: 6
 WORD: dance, FREQ: 6
 WORD: shot, FREQ: 6
@@ -3428,7 +3433,6 @@ WORD: mind, FREQ: 6
 WORD: paul, FREQ: 6
 WORD: wanted, FREQ: 6
 WORD: bill, FREQ: 6
-WORD: particular, FREQ: 6
 WORD: go, FREQ: 6
 WORD: described, FREQ: 6
 WORD: used, FREQ: 6
@@ -3444,7 +3448,6 @@ WORD: now, FREQ: 6
 WORD: whose, FREQ: 6
 WORD: short, FREQ: 6
 WORD: says, FREQ: 6
-WORD: killing, FREQ: 6
 WORD: makes, FREQ: 6
 WORD: violent, FREQ: 6
 WORD: sequence, FREQ: 6
@@ -3455,7 +3458,6 @@ WORD: audience, FREQ: 6
 WORD: indie, FREQ: 6
 WORD: issue, FREQ: 6
 WORD: less, FREQ: 6
-WORD: year, FREQ: 6
 WORD: far, FREQ: 6
 WORD: post, FREQ: 6
 WORD: godard, FREQ: 6
@@ -3481,6 +3483,7 @@ WORD: many, FREQ: 7
 WORD: strong, FREQ: 7
 WORD: academy, FREQ: 7
 WORD: seven, FREQ: 7
+WORD: particular, FREQ: 7
 WORD: use, FREQ: 7
 WORD: often, FREQ: 7
 WORD: poll, FREQ: 7
@@ -3494,6 +3497,7 @@ WORD: kill, FREQ: 7
 WORD: take, FREQ: 7
 WORD: lance, FREQ: 7
 WORD: finds, FREQ: 7
+WORD: killing, FREQ: 7
 WORD: gun, FREQ: 7
 WORD: zed, FREQ: 7
 WORD: deal, FREQ: 7
@@ -3508,10 +3512,12 @@ WORD: industry, FREQ: 7
 WORD: association, FREQ: 7
 WORD: cool, FREQ: 7
 WORD: richard, FREQ: 7
+WORD: year, FREQ: 7
 WORD: much, FREQ: 7
 WORD: hirsch, FREQ: 7
 WORD: afi, FREQ: 7
 WORD: men, FREQ: 7
+WORD: reads, FREQ: 7
 WORD: groth, FREQ: 7
 WORD: king, FREQ: 7
 WORD: tv, FREQ: 7
@@ -3550,11 +3556,9 @@ WORD: september, FREQ: 8
 WORD: musical, FREQ: 8
 WORD: number, FREQ: 8
 WORD: lord, FREQ: 8
-WORD: reads, FREQ: 8
 WORD: news, FREQ: 8
 WORD: charyn, FREQ: 8
 WORD: waxman, FREQ: 8
-WORD: archived, FREQ: 8
 WORD: quoted, FREQ: 8
 WORD: story, FREQ: 9
 WORD: uma, FREQ: 9
@@ -3584,7 +3588,6 @@ WORD: society, FREQ: 9
 WORD: speech, FREQ: 9
 WORD: writes, FREQ: 9
 WORD: kolker, FREQ: 9
-WORD: release, FREQ: 10
 WORD: samuel, FREQ: 10
 WORD: romance, FREQ: 10
 WORD: tristar, FREQ: 10
@@ -3606,6 +3609,7 @@ WORD: chicago, FREQ: 10
 WORD: great, FREQ: 10
 WORD: white, FREQ: 10
 WORD: brien, FREQ: 10
+WORD: release, FREQ: 11
 WORD: directed, FREQ: 11
 WORD: bender, FREQ: 11
 WORD: black, FREQ: 11
@@ -3617,7 +3621,6 @@ WORD: passage, FREQ: 11
 WORD: vega, FREQ: 11
 WORD: watch, FREQ: 11
 WORD: mia, FREQ: 11
-WORD: dead, FREQ: 11
 WORD: supporting, FREQ: 11
 WORD: big, FREQ: 11
 WORD: characters, FREQ: 11
@@ -3630,6 +3633,7 @@ WORD: ezekiel, FREQ: 11
 WORD: argues, FREQ: 11
 WORD: conard, FREQ: 11
 WORD: polan, FREQ: 11
+WORD: archived, FREQ: 11
 WORD: crime, FREQ: 12
 WORD: several, FREQ: 12
 WORD: critical, FREQ: 12
@@ -3637,6 +3641,7 @@ WORD: postmodern, FREQ: 12
 WORD: narrative, FREQ: 12
 WORD: cast, FREQ: 12
 WORD: music, FREQ: 12
+WORD: dead, FREQ: 12
 WORD: get, FREQ: 12
 WORD: may, FREQ: 12
 WORD: world, FREQ: 12
@@ -3664,7 +3669,6 @@ WORD: willis, FREQ: 15
 WORD: miramax, FREQ: 15
 WORD: briefcase, FREQ: 15
 WORD: picture, FREQ: 15
-WORD: original, FREQ: 15
 WORD: cinema, FREQ: 15
 WORD: well, FREQ: 15
 WORD: part, FREQ: 15
@@ -3687,11 +3691,12 @@ WORD: avary, FREQ: 18
 WORD: million, FREQ: 18
 WORD: noir, FREQ: 18
 WORD: first, FREQ: 18
+WORD: original, FREQ: 18
 WORD: actor, FREQ: 18
 WORD: times, FREQ: 18
-WORD: march, FREQ: 18
 WORD: john, FREQ: 19
 WORD: screenplay, FREQ: 19
+WORD: march, FREQ: 19
 WORD: critics, FREQ: 20
 WORD: man, FREQ: 20
 WORD: home, FREQ: 20
@@ -3701,7 +3706,6 @@ WORD: pp, FREQ: 21
 WORD: violence, FREQ: 22
 WORD: two, FREQ: 22
 WORD: awards, FREQ: 22
-WORD: like, FREQ: 22
 WORD: entertainment, FREQ: 23
 WORD: press, FREQ: 23
 WORD: see, FREQ: 24
@@ -3710,9 +3714,6 @@ WORD: nominated, FREQ: 24
 WORD: marsellus, FREQ: 26
 WORD: dawson, FREQ: 27
 WORD: travolta, FREQ: 28
-WORD: also, FREQ: 29
-WORD: films, FREQ: 31
-WORD: movies, FREQ: 32
 WORD: butch, FREQ: 32
 WORD: scene, FREQ: 32
 WORD: york, FREQ: 33
@@ -3720,13 +3721,8 @@ WORD: time, FREQ: 35
 WORD: one, FREQ: 37
 WORD: quentin, FREQ: 38
 WORD: jules, FREQ: 41
-WORD: isbn, FREQ: 43
-WORD: movie, FREQ: 44
 WORD: vincent, FREQ: 49
-WORD: new, FREQ: 50
-WORD: best, FREQ: 53
-WORD: retrieved, FREQ: 96
+WORD: best, FREQ: 52
 WORD: tarantino, FREQ: 155
 WORD: fiction, FREQ: 175
 WORD: pulp, FREQ: 180
-WORD: film, FREQ: 192

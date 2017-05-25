@@ -41,7 +41,6 @@ WORD: prömiyeri, FREQ: 1
 WORD: yapılmıştır, FREQ: 1
 WORD: yayınlanmasından, FREQ: 1
 WORD: yılın, FREQ: 1
-WORD: iyi, FREQ: 1
 WORD: filmleri, FREQ: 1
 WORD: arasında, FREQ: 1
 WORD: gösterilmiştir, FREQ: 1
@@ -287,7 +286,6 @@ WORD: mükemmel, FREQ: 2
 WORD: for, FREQ: 2
 WORD: web, FREQ: 2
 WORD: joins, FREQ: 2
-WORD: variety, FREQ: 2
 WORD: comingsoon, FREQ: 2
 WORD: net, FREQ: 2
 WORD: resmî, FREQ: 2
@@ -302,7 +300,6 @@ WORD: dicaprio, FREQ: 3
 WORD: joseph, FREQ: 3
 WORD: caine, FREQ: 3
 WORD: cobb, FREQ: 3
-WORD: b, FREQ: 3
 WORD: imdb, FREQ: 3
 WORD: borys, FREQ: 3
 WORD: kit, FREQ: 3
@@ -318,18 +315,12 @@ WORD: filmler, FREQ: 3
 WORD: gordon, FREQ: 4
 WORD: levitt, FREQ: 4
 WORD: tarihinde, FREQ: 4
-WORD: the, FREQ: 4
 WORD: news, FREQ: 4
-WORD: kaynağı, FREQ: 5
 WORD: başlangıç, FREQ: 6
 WORD: christopher, FREQ: 6
-WORD: www, FREQ: 6
-WORD: com, FREQ: 7
 WORD: erişim, FREQ: 7
 WORD: tarihi, FREQ: 7
 WORD: film, FREQ: 8
-WORD: http, FREQ: 8
 WORD: inception, FREQ: 10
 WORD: nolan, FREQ: 10
 WORD: temmuz, FREQ: 10
-WORD: değiştir, FREQ: 10

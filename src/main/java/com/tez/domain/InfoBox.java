@@ -15,6 +15,7 @@ import org.jsoup.select.Elements;
 public class InfoBox {
 	
 	private String title;
+        private String title_TR;
 	private String director;
 	private ArrayList<String> starring = new ArrayList<String>();
 	private String poster ;
@@ -22,15 +23,15 @@ public class InfoBox {
 	//CONSTRUCTORS
 	public InfoBox(){
 	}
-	public InfoBox(String vikiURL){
+	public InfoBox(String wikiURL, String vikiURL){
 		/*
 		 * wikipedia kayna��ndaki element pathleri setter methodlara g�nderilir
 		 */
                 String htmlPath = "#mw-content-text > table.infobox.vevent > tbody > tr:nth-child(1) > th.summary";
-		setTitle(vikiURL, htmlPath);
-		setDirector(vikiURL,0);
-		setStarring(vikiURL,0);
-                setPoster(vikiURL);
+		setTitles(wikiURL, vikiURL, htmlPath);
+		setDirector(wikiURL,0);
+		setStarring(wikiURL,0);
+                setPoster(wikiURL);
 	}
 	
 	//CUSTOM SETTER METHODS   
@@ -132,7 +133,7 @@ public class InfoBox {
 	public void setTitle(String title){
 		this.title = title;
 	}
-	public void setTitle(String vikiURL,String path) {
+	public void setTitles(String wikiURL,String vikiURL,String path) {
 		/*
 		 * title pathindeki element okunur ve title field�na atan�r
 		 */
@@ -142,11 +143,21 @@ public class InfoBox {
 			String html = res.body();
 			Document doc = Jsoup.parseBodyFragment(html);
 			Element element = doc.select(path).first();
+			this.title_TR = element.text();			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+                try {	
+			res = Jsoup.connect(wikiURL).execute();
+			String html = res.body();
+			Document doc = Jsoup.parseBodyFragment(html);
+			Element element = doc.select(path).first();
 			this.title = element.text();			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}		  	
+		}
 	}        
 
 	
@@ -166,18 +177,18 @@ public class InfoBox {
 		int mismatch=0;
 		
 		if(!this.title.equals(other.getTitle())){
-			System.out.println("Mismatch: "+this.title+"!="+other.getTitle());
+			//System.out.println("Mismatch: "+this.title+"!="+other.getTitle());
 			return false;
 		}
 			
 		if(!this.director.equals(other.getDirector())){
-			System.out.println("Mismatch: "+this.director+"!="+other.getDirector());
+			//System.out.println("Mismatch: "+this.director+"!="+other.getDirector());
 			return false;
 		}			
 		
 		for(String star : other.getStarring()){
 			if(!this.starring.contains(star)){
-				System.out.println("Mismatch: '"+star+"'"+" Does Not Exist In the Starring List");
+				//System.out.println("Mismatch: '"+star+"'"+" Does Not Exist In the Starring List");
 				mismatch++;
 			}			
 		}
@@ -194,6 +205,9 @@ public class InfoBox {
 	public String getTitle() {
 		return title;
 	}
+        public String getTitle_TR() {
+		return title_TR;
+	}
 	public String getDirector() {
 		return director;
 	}	
@@ -205,37 +219,5 @@ public class InfoBox {
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	/*
-	 * private String imdbRate;
-	 * private String tomatoRate;
-	 * private ArrayList<String> genre = new ArrayList<String>();
-	 */
-	
-	/*public ArrayList<String> getGenre() {
-		return genre;
-	}
-	public void setGenre(ArrayList<String> genre) {
-		this.genre = genre;
-	}
-	public String getImdbRate() {
-		return imdbRate;
-	}
-	public void setImdbRate(String imdbRate) {
-		this.imdbRate = imdbRate;
-	}
-	public String getTomatoRate() {
-		return tomatoRate;
-	}
-	public void setTomatoRate(String tomatoRate) {
-		this.tomatoRate = tomatoRate;
-	}*/
 
 }

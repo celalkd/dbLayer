@@ -453,8 +453,6 @@ WORD: galadriel, FREQ: 2
 WORD: yer, FREQ: 2
 WORD: boromir, FREQ: 2
 WORD: akademi, FREQ: 2
-WORD: http, FREQ: 2
-WORD: www, FREQ: 2
 WORD: boxofficemojo, FREQ: 2
 WORD: ordunun, FREQ: 2
 WORD: savaşı, FREQ: 2
@@ -473,12 +471,10 @@ WORD: legolas, FREQ: 3
 WORD: gimli, FREQ: 3
 WORD: gandalf, FREQ: 3
 WORD: baggins, FREQ: 3
-WORD: com, FREQ: 3
 WORD: ler, FREQ: 3
 WORD: müzikleri, FREQ: 3
 WORD: oyuncular, FREQ: 4
 WORD: kardeşliği, FREQ: 4
-WORD: kaynağı, FREQ: 4
 WORD: i̇yi, FREQ: 4
 WORD: ödülü, FREQ: 4
 WORD: peter, FREQ: 5
@@ -494,11 +490,8 @@ WORD: lord, FREQ: 7
 WORD: rings, FREQ: 7
 WORD: two, FREQ: 7
 WORD: towers, FREQ: 7
-WORD: değiştir, FREQ: 8
-WORD: of, FREQ: 9
 WORD: yüzüklerin, FREQ: 11
 WORD: efendisi, FREQ: 11
 WORD: film, FREQ: 13
 WORD: seslendiren, FREQ: 19
 WORD: türkçe, FREQ: 20
-WORD: the, FREQ: 30

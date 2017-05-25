@@ -42,7 +42,6 @@ WORD: resmî, FREQ: 1
 WORD: sitesi, FREQ: 1
 WORD: turin, FREQ: 1
 WORD: museum, FREQ: 1
-WORD: of, FREQ: 1
 WORD: orijinal, FREQ: 1
 WORD: ilk, FREQ: 1
 WORD: yapımından, FREQ: 1
@@ -317,7 +316,6 @@ WORD: kay, FREQ: 2
 WORD: adams, FREQ: 2
 WORD: fredo, FREQ: 2
 WORD: connie, FREQ: 2
-WORD: www, FREQ: 2
 WORD: sinemalar, FREQ: 2
 WORD: mayıs, FREQ: 2
 WORD: tarihinde, FREQ: 2
@@ -348,8 +346,6 @@ WORD: carmine, FREQ: 3
 WORD: i̇ngilizce, FREQ: 3
 WORD: national, FREQ: 3
 WORD: tarihi, FREQ: 3
-WORD: com, FREQ: 3
-WORD: http, FREQ: 3
 WORD: aile, FREQ: 3
 WORD: albüm, FREQ: 3
 WORD: part, FREQ: 4
@@ -363,16 +359,13 @@ WORD: org, FREQ: 4
 WORD: godfather, FREQ: 5
 WORD: vito, FREQ: 5
 WORD: don, FREQ: 5
-WORD: the, FREQ: 6
 WORD: francis, FREQ: 6
 WORD: ford, FREQ: 6
 WORD: robert, FREQ: 6
-WORD: kaynağı, FREQ: 6
 WORD: oscarı, FREQ: 6
 WORD: coppola, FREQ: 7
 WORD: i̇yi, FREQ: 8
 WORD: ii, FREQ: 10
 WORD: film, FREQ: 11
-WORD: değiştir, FREQ: 12
 WORD: corleone, FREQ: 23
 WORD: baba, FREQ: 25

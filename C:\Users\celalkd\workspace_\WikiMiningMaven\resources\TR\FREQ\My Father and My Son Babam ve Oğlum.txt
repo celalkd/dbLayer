@@ -1,0 +1,496 @@
+WORD: yapımcı, FREQ: 1
+WORD: şükrü, FREQ: 1
+WORD: senarist, FREQ: 1
+WORD: tuba, FREQ: 1
+WORD: büyüküstün, FREQ: 1
+WORD: müzik, FREQ: 1
+WORD: stüdyo, FREQ: 1
+WORD: dağıtıcı, FREQ: 1
+WORD: özen, FREQ: 1
+WORD: cinsi, FREQ: 1
+WORD: türü, FREQ: 1
+WORD: dram, FREQ: 1
+WORD: renk, FREQ: 1
+WORD: renkli, FREQ: 1
+WORD: yapım, FREQ: 1
+WORD: yılı, FREQ: 1
+WORD: çıkış, FREQ: 1
+WORD: tarih, FREQ: 1
+WORD: ler, FREQ: 1
+WORD: kasım, FREQ: 1
+WORD: süre, FREQ: 1
+WORD: dakika, FREQ: 1
+WORD: ülke, FREQ: 1
+WORD: dil, FREQ: 1
+WORD: türkçe, FREQ: 1
+WORD: bütçe, FREQ: 1
+WORD: hasılat, FREQ: 1
+WORD: tl, FREQ: 1
+WORD: yapımı, FREQ: 1
+WORD: okumak, FREQ: 1
+WORD: ayrılan, FREQ: 1
+WORD: yıllar, FREQ: 1
+WORD: oğluyla, FREQ: 1
+WORD: beraber, FREQ: 1
+WORD: yeniden, FREQ: 1
+WORD: dönüşünün, FREQ: 1
+WORD: arka, FREQ: 1
+WORD: planında, FREQ: 1
+WORD: aktarıldığı, FREQ: 1
+WORD: filmin, FREQ: 1
+WORD: senaryosunu, FREQ: 1
+WORD: yazdı, FREQ: 1
+WORD: izleyici, FREQ: 1
+WORD: sınırını, FREQ: 1
+WORD: aşan, FREQ: 1
+WORD: nadir, FREQ: 1
+WORD: filmlerden, FREQ: 1
+WORD: olma, FREQ: 1
+WORD: başarısını, FREQ: 1
+WORD: gösterdi, FREQ: 1
+WORD: yılında, FREQ: 1
+WORD: izleyicilerin, FREQ: 1
+WORD: oyladığı, FREQ: 1
+WORD: dünyaca, FREQ: 1
+WORD: ünlü, FREQ: 1
+WORD: sitesinde, FREQ: 1
+WORD: aldıgı, FREQ: 1
+WORD: puan, FREQ: 1
+WORD: sıraya, FREQ: 1
+WORD: yerleşerek, FREQ: 1
+WORD: eşi, FREQ: 1
+WORD: benzeri, FREQ: 1
+WORD: görülmemiş, FREQ: 1
+WORD: rekora, FREQ: 1
+WORD: imza, FREQ: 1
+WORD: atmıştır, FREQ: 1
+WORD: üniversitede, FREQ: 1
+WORD: eğitimi, FREQ: 1
+WORD: ayrılmıştır, FREQ: 1
+WORD: ziraat, FREQ: 1
+WORD: mühendisliği, FREQ: 1
+WORD: okuyup, FREQ: 1
+WORD: çiftliğin, FREQ: 1
+WORD: idaresini, FREQ: 1
+WORD: eline, FREQ: 1
+WORD: almasını, FREQ: 1
+WORD: istemektedir, FREQ: 1
+WORD: üniversite, FREQ: 1
+WORD: yıllarında, FREQ: 1
+WORD: politikayla, FREQ: 1
+WORD: aktif, FREQ: 1
+WORD: ilgilenir, FREQ: 1
+WORD: öğrenen, FREQ: 1
+WORD: oğlunu, FREQ: 1
+WORD: evlatlıktan, FREQ: 1
+WORD: reddeder, FREQ: 1
+WORD: li, FREQ: 1
+WORD: yıllarda, FREQ: 1
+WORD: siyasi, FREQ: 1
+WORD: olaya, FREQ: 1
+WORD: karışan, FREQ: 1
+WORD: zor, FREQ: 1
+WORD: günler, FREQ: 1
+WORD: beklemektedir, FREQ: 1
+WORD: yılının, FREQ: 1
+WORD: günü, FREQ: 1
+WORD: sabah, FREQ: 1
+WORD: erken, FREQ: 1
+WORD: saatlerde, FREQ: 1
+WORD: karısının, FREQ: 1
+WORD: sancılarının, FREQ: 1
+WORD: tutmasıyla, FREQ: 1
+WORD: dışarı, FREQ: 1
+WORD: fırlayan, FREQ: 1
+WORD: çift, FREQ: 1
+WORD: hastaneye, FREQ: 1
+WORD: gitmek, FREQ: 1
+WORD: araç, FREQ: 1
+WORD: bulamazlar, FREQ: 1
+WORD: ülkede, FREQ: 1
+WORD: askeri, FREQ: 1
+WORD: gerçekleşmektedir, FREQ: 1
+WORD: karısı, FREQ: 1
+WORD: esnasında, FREQ: 1
+WORD: hayatını, FREQ: 1
+WORD: kaybeder, FREQ: 1
+WORD: küçük, FREQ: 1
+WORD: hayattadır, FREQ: 1
+WORD: gördüğü, FREQ: 1
+WORD: işkence, FREQ: 1
+WORD: yattığı, FREQ: 1
+WORD: hapisten, FREQ: 1
+WORD: sağlığı, FREQ: 1
+WORD: bozulan, FREQ: 1
+WORD: hastalığının, FREQ: 1
+WORD: ölümcül, FREQ: 1
+WORD: olduğunu, FREQ: 1
+WORD: anladığında, FREQ: 1
+WORD: annesinin, FREQ: 1
+WORD: konuşmadığı, FREQ: 1
+WORD: babasının, FREQ: 1
+WORD: yanına, FREQ: 1
+WORD: götürmekten, FREQ: 1
+WORD: başka, FREQ: 1
+WORD: bulamaz, FREQ: 1
+WORD: çizgi, FREQ: 1
+WORD: romanlara, FREQ: 1
+WORD: büyülü, FREQ: 1
+WORD: dünyasına, FREQ: 1
+WORD: meraklı, FREQ: 1
+WORD: olan, FREQ: 1
+WORD: evin, FREQ: 1
+WORD: yanaşmaları, FREQ: 1
+WORD: küs, FREQ: 1
+WORD: teyze, FREQ: 1
+WORD: traktör, FREQ: 1
+WORD: kullanan, FREQ: 1
+WORD: telsizle, FREQ: 1
+WORD: konuşan, FREQ: 1
+WORD: babaanne, FREQ: 1
+WORD: bileğinden, FREQ: 1
+WORD: boğazına, FREQ: 1
+WORD: bilezikle, FREQ: 1
+WORD: dolaşan, FREQ: 1
+WORD: gelin, FREQ: 1
+WORD: hanife, FREQ: 1
+WORD: saf, FREQ: 1
+WORD: amca, FREQ: 1
+WORD: tanışmak, FREQ: 1
+WORD: farklı, FREQ: 1
+WORD: deneyim, FREQ: 1
+WORD: geçmişle, FREQ: 1
+WORD: hesaplaşmaları, FREQ: 1
+WORD: sıkıntılı, FREQ: 1
+WORD: gelişmelere, FREQ: 1
+WORD: filmde, FREQ: 1
+WORD: dede, FREQ: 1
+WORD: babaannesi, FREQ: 1
+WORD: karşımıza, FREQ: 1
+WORD: çıkıyorlar, FREQ: 1
+WORD: i̇çindekiler, FREQ: 1
+WORD: akbay, FREQ: 1
+WORD: tosun, FREQ: 1
+WORD: nergis, FREQ: 1
+WORD: çorakçı, FREQ: 1
+WORD: mahmut, FREQ: 1
+WORD: gökgöz, FREQ: 1
+WORD: halit, FREQ: 1
+WORD: ergenç, FREQ: 1
+WORD: mehmet, FREQ: 1
+WORD: canbeg, FREQ: 1
+WORD: uluslararası, FREQ: 1
+WORD: yazarları, FREQ: 1
+WORD: senaryo, FREQ: 1
+WORD: çağdaş, FREQ: 1
+WORD: oyuncuları, FREQ: 1
+WORD: çasod, FREQ: 1
+WORD: nuremberg, FREQ: 1
+WORD: almanya, FREQ: 1
+WORD: i̇zleyici, FREQ: 1
+WORD: müzikleri, FREQ: 1
+WORD: müziği, FREQ: 1
+WORD: sadri, FREQ: 1
+WORD: alışık, FREQ: 1
+WORD: i̇yi, FREQ: 1
+WORD: boxoffice, FREQ: 1
+WORD: title, FREQ: 1
+WORD: tt0476735, FREQ: 1
+WORD: awards, FREQ: 1
+WORD: sayfası, FREQ: 1
+WORD: vikisöz, FREQ: 1
+WORD: sözleri, FREQ: 1
+WORD: bulabilirsiniz, FREQ: 1
+WORD: sineması, FREQ: 1
+WORD: taslaktır, FREQ: 1
+WORD: içeriğini, FREQ: 1
+WORD: geliştirerek, FREQ: 1
+WORD: vikipedi, FREQ: 1
+WORD: ye, FREQ: 1
+WORD: katkıda, FREQ: 1
+WORD: bulunabilirsiniz, FREQ: 1
+WORD: yönetmenliğini, FREQ: 1
+WORD: yaptığı, FREQ: 1
+WORD: dizi, FREQ: 1
+WORD: günaydın, FREQ: 1
+WORD: kardeş, FREQ: 1
+WORD: şaşıfelek, FREQ: 1
+WORD: çıkmazı, FREQ: 1
+WORD: asmalı, FREQ: 1
+WORD: konak, FREQ: 1
+WORD: arkadaşım, FREQ: 1
+WORD: keşanlı, FREQ: 1
+WORD: ali, FREQ: 1
+WORD: destanı, FREQ: 1
+WORD: televizyon, FREQ: 1
+WORD: çilekli, FREQ: 1
+WORD: pasta, FREQ: 1
+WORD: kabuslar, FREQ: 1
+WORD: evi, FREQ: 1
+WORD: şans, FREQ: 1
+WORD: dile, FREQ: 1
+WORD: hakkında, FREQ: 1
+WORD: herşey, FREQ: 1
+WORD: ulak, FREQ: 1
+WORD: issız, FREQ: 1
+WORD: adam, FREQ: 1
+WORD: karanlıktakiler, FREQ: 1
+WORD: prensesin, FREQ: 1
+WORD: uykusu, FREQ: 1
+WORD: dedemin, FREQ: 1
+WORD: i̇nsanları, FREQ: 1
+WORD: mıyız, FREQ: 1
+WORD: unutursam, FREQ: 1
+WORD: fısılda, FREQ: 1
+WORD: nadide, FREQ: 1
+WORD: hayat, FREQ: 1
+WORD: kısa, FREQ: 1
+WORD: masal, FREQ: 1
+WORD: kurban, FREQ: 1
+WORD: old, FREQ: 1
+WORD: wise, FREQ: 1
+WORD: çal, FREQ: 1
+WORD: hükûmeti ·, FREQ: 1
+WORD: millî, FREQ: 1
+WORD: güvenlik, FREQ: 1
+WORD: konseyi, FREQ: 1
+WORD: öncesi, FREQ: 1
+WORD: güneş, FREQ: 1
+WORD: motel, FREQ: 1
+WORD: olayı ·, FREQ: 1
+WORD: ocak, FREQ: 1
+WORD: kararları ·, FREQ: 1
+WORD: tariş, FREQ: 1
+WORD: yeni, FREQ: 1
+WORD: çeltek, FREQ: 1
+WORD: çorum, FREQ: 1
+WORD: kudüs, FREQ: 1
+WORD: mitingi ·, FREQ: 1
+WORD: aralık, FREQ: 1
+WORD: muhtırası, FREQ: 1
+WORD: yasama, FREQ: 1
+WORD: tbmm, FREQ: 1
+WORD: danışma, FREQ: 1
+WORD: meclisi, FREQ: 1
+WORD: sorgulamalar, FREQ: 1
+WORD: derinlemesine, FREQ: 1
+WORD: araştırma, FREQ: 1
+WORD: laboratuvarı ·, FREQ: 1
+WORD: ziverbey, FREQ: 1
+WORD: köşkü, FREQ: 1
+WORD: yargılamalar, FREQ: 1
+WORD: barış, FREQ: 1
+WORD: mhp, FREQ: 1
+WORD: ülkücü, FREQ: 1
+WORD: kuruluşlar, FREQ: 1
+WORD: di̇sk, FREQ: 1
+WORD: devrimci, FREQ: 1
+WORD: seçim, FREQ: 1
+WORD: referandumlar, FREQ: 1
+WORD: referandumu ·, FREQ: 1
+WORD: genel, FREQ: 1
+WORD: seçimleri, FREQ: 1
+WORD: uygulamalar, FREQ: 1
+WORD: babalar, FREQ: 1
+WORD: operasyonu ·, FREQ: 1
+WORD: likler ·, FREQ: 1
+WORD: yasaklamaları, FREQ: 1
+WORD: mimarları, FREQ: 1
+WORD: kenan, FREQ: 1
+WORD: evren ·, FREQ: 1
+WORD: nurettin, FREQ: 1
+WORD: ersin ·, FREQ: 1
+WORD: tahsin, FREQ: 1
+WORD: şahinkaya ·, FREQ: 1
+WORD: nejat, FREQ: 1
+WORD: tümer ·, FREQ: 1
+WORD: sedat, FREQ: 1
+WORD: celasun, FREQ: 1
+WORD: kişiler, FREQ: 1
+WORD: esat, FREQ: 1
+WORD: oktay, FREQ: 1
+WORD: yıldıran ·, FREQ: 1
+WORD: sabri, FREQ: 1
+WORD: yirmibeşoğlu ·, FREQ: 1
+WORD: bülend, FREQ: 1
+WORD: ulusu ·, FREQ: 1
+WORD: selahattin, FREQ: 1
+WORD: çetiner, FREQ: 1
+WORD: olaylar, FREQ: 1
+WORD: eren, FREQ: 1
+WORD: i̇lyas, FREQ: 1
+WORD: has, FREQ: 1
+WORD: hıdır, FREQ: 1
+WORD: aslan, FREQ: 1
+WORD: necdet, FREQ: 1
+WORD: adalı, FREQ: 1
+WORD: pehlivanoğlu, FREQ: 1
+WORD: veysel, FREQ: 1
+WORD: güney, FREQ: 1
+WORD: ahmet, FREQ: 1
+WORD: saner, FREQ: 1
+WORD: mazlum, FREQ: 1
+WORD: doğan, FREQ: 1
+WORD: kemal, FREQ: 1
+WORD: pir, FREQ: 1
+WORD: nihat, FREQ: 1
+WORD: erim, FREQ: 1
+WORD: suikastı, FREQ: 1
+WORD: etkileri, FREQ: 1
+WORD: cumhuriyeti, FREQ: 1
+WORD: pkk ·, FREQ: 1
+WORD: dhkp, FREQ: 1
+WORD: c ·, FREQ: 1
+WORD: ti̇kko ·, FREQ: 1
+WORD: sağ, FREQ: 1
+WORD: sol, FREQ: 1
+WORD: çatışması, FREQ: 1
+WORD: eserler, FREQ: 1
+WORD: ankara, FREQ: 1
+WORD: yazı, FREQ: 1
+WORD: veda, FREQ: 1
+WORD: mektubu ·, FREQ: 1
+WORD: av, FREQ: 1
+WORD: zamanı ·, FREQ: 1
+WORD: askerde ·, FREQ: 1
+WORD: oğlum ·, FREQ: 1
+WORD: beynelmilel ·, FREQ: 1
+WORD: olsun ·, FREQ: 1
+WORD: kapılar, FREQ: 1
+WORD: kapalıydı ·, FREQ: 1
+WORD: dikenli, FREQ: 1
+WORD: yol ·, FREQ: 1
+WORD: eve, FREQ: 1
+WORD: dönüş ·, FREQ: 1
+WORD: fırtınası ·, FREQ: 1
+WORD: gülün, FREQ: 1
+WORD: bittiği, FREQ: 1
+WORD: yer ·, FREQ: 1
+WORD: kadın ·, FREQ: 1
+WORD: kafes ·, FREQ: 1
+WORD: çocukları ·, FREQ: 1
+WORD: prenses ·, FREQ: 1
+WORD: türkülerini, FREQ: 1
+WORD: söyle ·, FREQ: 1
+WORD: ses ·, FREQ: 1
+WORD: sis ·, FREQ: 1
+WORD: suyun, FREQ: 1
+WORD: öte, FREQ: 1
+WORD: yanı ·, FREQ: 1
+WORD: uzlaşma ·, FREQ: 1
+WORD: uçurtmayı, FREQ: 1
+WORD: vurmasınlar ·, FREQ: 1
+WORD: vizontele, FREQ: 1
+WORD: tuuba ·, FREQ: 1
+WORD: bekle, FREQ: 1
+WORD: dedim, FREQ: 1
+WORD: gölgeye, FREQ: 1
+WORD: kalp, FREQ: 1
+WORD: unutur, FREQ: 1
+WORD: hatırla, FREQ: 1
+WORD: sevgili ·, FREQ: 1
+WORD: seksenler ·, FREQ: 1
+WORD: belgeseller, FREQ: 1
+WORD: belgeseli, FREQ: 1
+WORD: kitaplar, FREQ: 1
+WORD: saat, FREQ: 1
+WORD: tank, FREQ: 1
+WORD: sesiyle, FREQ: 1
+WORD: uyanmak ·, FREQ: 1
+WORD: çıplak, FREQ: 1
+WORD: ayaklıydı, FREQ: 1
+WORD: gece ·, FREQ: 1
+WORD: gurbet, FREQ: 1
+WORD: kaçtı, FREQ: 1
+WORD: gözüme, FREQ: 1
+WORD: konular, FREQ: 1
+WORD: antikomünizm, FREQ: 1
+WORD: diyarbakır, FREQ: 1
+WORD: mamak, FREQ: 1
+WORD: askerî, FREQ: 1
+WORD: ulucanlar, FREQ: 1
+WORD: müzesi, FREQ: 1
+WORD: yönetmen, FREQ: 2
+WORD: avşar, FREQ: 2
+WORD: binnur, FREQ: 2
+WORD: kaya, FREQ: 2
+WORD: tanman, FREQ: 2
+WORD: evanthia, FREQ: 2
+WORD: reboutsika, FREQ: 2
+WORD: çiftlikten, FREQ: 2
+WORD: gazetecilik, FREQ: 2
+WORD: çiftliğe, FREQ: 2
+WORD: darbesi, FREQ: 2
+WORD: babası, FREQ: 2
+WORD: olarak, FREQ: 2
+WORD: doğum, FREQ: 2
+WORD: darbe, FREQ: 2
+WORD: olacaktır, FREQ: 2
+WORD: aldığı, FREQ: 2
+WORD: ödüller, FREQ: 2
+WORD: kaynakça, FREQ: 2
+WORD: dış, FREQ: 2
+WORD: bağlantılar, FREQ: 2
+WORD: özge, FREQ: 2
+WORD: özberk, FREQ: 2
+WORD: erdal, FREQ: 2
+WORD: i̇stanbul, FREQ: 2
+WORD: festivali, FREQ: 2
+WORD: derneği, FREQ: 2
+WORD: yardımcı, FREQ: 2
+WORD: ödülü, FREQ: 2
+WORD: dünya, FREQ: 2
+WORD: ilgili, FREQ: 2
+WORD: türk, FREQ: 2
+WORD: madde, FREQ: 2
+WORD: filmler, FREQ: 2
+WORD: diziler, FREQ: 2
+WORD: çemberimde, FREQ: 2
+WORD: gül, FREQ: 2
+WORD: oya, FREQ: 2
+WORD: mustafa, FREQ: 2
+WORD: dönemi, FREQ: 2
+WORD: zincirbozan ·, FREQ: 2
+WORD: davası, FREQ: 2
+WORD: anayasası ·, FREQ: 2
+WORD: ölümü ·, FREQ: 2
+WORD: hükümet, FREQ: 2
+WORD: değişikliği, FREQ: 2
+WORD: referandumu, FREQ: 2
+WORD: oyuncular, FREQ: 3
+WORD: fikret, FREQ: 3
+WORD: kuşkan, FREQ: 3
+WORD: yetkin, FREQ: 3
+WORD: dikinciler, FREQ: 3
+WORD: sinema, FREQ: 3
+WORD: deki, FREQ: 3
+WORD: imdb, FREQ: 3
+WORD: hüseyin, FREQ: 3
+WORD: yol, FREQ: 3
+WORD: oldukça, FREQ: 3
+WORD: erkek, FREQ: 3
+WORD: ödülleri, FREQ: 3
+WORD: olayları ·, FREQ: 3
+WORD: davası ·, FREQ: 3
+WORD: anayasa, FREQ: 3
+WORD: i̇lgili, FREQ: 3
+WORD: cezaevi, FREQ: 3
+WORD: oğlum, FREQ: 4
+WORD: şerif, FREQ: 4
+WORD: sezer, FREQ: 4
+WORD: filmi, FREQ: 4
+WORD: deniz, FREQ: 4
+WORD: çetin, FREQ: 5
+WORD: tekindor, FREQ: 5
+WORD: hümeyra, FREQ: 5
+WORD: ege, FREQ: 5
+WORD: kadın, FREQ: 5
+WORD: babam, FREQ: 6
+WORD: sadık, FREQ: 7
+WORD: oyuncu, FREQ: 7
+WORD: idamı ·, FREQ: 7
+WORD: çağan, FREQ: 9
+WORD: irmak, FREQ: 9
+WORD: eylül, FREQ: 9
+WORD: türkiye, FREQ: 11
+WORD: film, FREQ: 13

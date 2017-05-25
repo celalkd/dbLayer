@@ -1,0 +1,30 @@
+1|The_Shawshank_Redemption|Frank Darabont|Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler|Crime, Drama|9.3|8.2
+2|The_Godfather|Francis Ford Coppola|Marlon Brando, Al Pacino, James Caan, Richard Castellano|Crime, Drama|9.2|9.2
+3|The_Godfather_Part_II|Francis Ford Coppola|Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro|Crime, Drama|9.0|9.5
+4|Star Wars: The Force Awakens|J. J. Abrams|Harrison Ford, Mark Hamill, Carrie Fisher, Daisy Ridley|Action, Adventure, Fantasy|8.1|8.9
+5|The_Dark_Knight|Christopher Nolan|Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine|Action, Crime, Drama|9.0|8.6
+6|Schindler's_List|Steven Spielberg|Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall, Jonathan Sagall|Biography, Drama, History|9.0|8.6
+7|Pulp_Fiction|Quentin Tarantino|John Travolta, Uma Thurman, Samuel L. Jackson, Tim Roth, Frank Whaley|Crime, Drama|9.0|8.6
+8|The_Lord_of_the_Rings:_The_Return_of_the_King|Peter Jackson|Elijah Wood, Viggo Mortensen, Ian McKellen, Cate Blanchett, Orlando Bloom|Adventure, Drama, Fantasy|9.0|8.6
+9|Return_of_the_Jedi|Richard Marquand|Harrison Ford, Mark Hamill, Carrie Fisher|Action, Adventure, Fantasy|8.4|8.6
+10|Fight_Club|David Fincher|Brad Pitt, Edward Norton, Meat Loaf, Helena Bonham Carter, Zach Grenier|Drama|9.0|8.6
+11|The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring|Peter Jackson|Elijah Wood, Ian McKellen, Orlando Bloom|Adventure, Drama, Fantasy|8.8|8.6
+12|The_Empire_Strikes_Back|Irvin Kershner|Mark Hamill, Harrison Ford, Carrie Fisher|Action, Adventure, Fantasy|8.8|8.6
+13|Forrest_Gump|Robert Zemeckis|Tom Hanks, Robin Wright, Gary Sinise|Comedy, Drama, Romance|8.8|8.6
+14|Inception|Christopher Nolan|Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy|Action, Adventure, Sci-Fi|8.8|8.6
+15|The_Lord_of_the_Rings:_The_Two_Towers|Peter Jackson|Elijah Wood, Ian McKellen, Viggo Mortensen|Adventure, Drama, Fantasy|8.7|8.6
+16|The_Prestige|Christopher Nolan|Christian Bale, Hugh Jackman, Scarlett Johansson|Drama, Mystery, Sci-Fi|8.5|8.0
+17|Inglourious Basterds|Quentin Tarantino|Brad Pitt, Diane Kruger, Eli Roth, Christoph Waltz|Adventure, Drama, War|8.3|8.3
+18|Reservoir Dogs|Quentin Tarantino|Steve Buscemi, Harvey Keitel, Tim Roth, Michael Madsen|Crime, Drama, Thriller|8.3|8.0
+19|Django Unchained|Quentin Tarantino|Jamie Foxx, Christoph Waltz, Leonardo DiCaprio|Western, Drama|8.4|8.0
+20|Scent of a Woman|Martin Brest|Al Pacino, Chris O'Donnell, James Rebhorn|Drama|8.0|8.0
+21|Captain Phillips|Paul Greengrass|Tom Hanks, Barkhad Abdi, Barkhad Abdirahman|Biography, Drama, Thriller|7.8|8.0
+22|The Wolf of Wall Street|Martin Scorsese|Leonardo DiCaprio, Jonah Hill, Margot Robbie|Biography, Comedy, Crime|8.2|8.2
+23|The Terminal|Steven Spielberg|Tom Hanks, Catherine Zeta-Jones, Chi McBride|Comedy, Drama, Romance|7.3|7.3
+24|Shutter Island|Martin Scorsese|Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo|Mystery, Thriller|8.1|7.3
+25|The Departed|Martin Scorsese|Leonardo DiCaprio, Matt Damon, Jack Nicholson|Crime, Drama, Thriller|8.5|7.3
+26|Winter Sleep|Nuri Bilge Ceylan|Haluk Bilginer, Demet Akbag, Melisa Sözen|Drama|8.2|7.3
+27|Once Upon a Time in Anatolia|Nuri Bilge Ceylan|Muhammet Uzuner, Yılmaz Erdoğan, Taner Birsel|Crime, Drama|7.8|7.3
+28|My Father and My Son Babam ve Oğlum|Çağan Irmak|Hümeyra, Fikret Kuşkan, Çetin Tekindor|Drama|8.6|8.5
+29|Eşkıya|Yavuz Turgul|Şener Şen, Uğur Yücel, Sermin Şen|Crime, Drama, Thriller|8.4|8.5
+30|Hunting Season|Yavuz Turgul|Şener Şen, Cem Yılmaz, Çetin Tekindor|Crime, Drama, Mystery|7.5|8.5

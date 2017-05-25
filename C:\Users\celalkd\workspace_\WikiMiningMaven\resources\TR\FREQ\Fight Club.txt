@@ -355,7 +355,6 @@ WORD: platform, FREQ: 1
 WORD: topuklar, FREQ: 1
 WORD: giymiştir, FREQ: 1
 WORD: boxofficemojo, FREQ: 1
-WORD: com, FREQ: 1
 WORD: detayları, FREQ: 1
 WORD: vikisöz, FREQ: 1
 WORD: ilgili, FREQ: 1
@@ -423,7 +422,6 @@ WORD: olduğunu, FREQ: 2
 WORD: kulüp, FREQ: 2
 WORD: gün, FREQ: 2
 WORD: geçtikçe, FREQ: 2
-WORD: the, FREQ: 2
 WORD: narrator, FREQ: 2
 WORD: uk, FREQ: 2
 WORD: ödülü, FREQ: 2
@@ -463,14 +461,11 @@ WORD: carter, FREQ: 5
 WORD: notlar, FREQ: 5
 WORD: fight, FREQ: 6
 WORD: club, FREQ: 6
-WORD: kaynağı, FREQ: 6
 WORD: edward, FREQ: 7
 WORD: norton, FREQ: 7
 WORD: ödülleri, FREQ: 7
 WORD: dövüş, FREQ: 8
 WORD: filmin, FREQ: 8
-WORD: iyi, FREQ: 11
 WORD: film, FREQ: 12
-WORD: değiştir, FREQ: 12
 WORD: anlatıcı, FREQ: 14
 WORD: tyler, FREQ: 16

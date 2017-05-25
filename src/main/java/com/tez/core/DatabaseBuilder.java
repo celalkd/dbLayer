@@ -8,7 +8,6 @@ import com.tez.domain.Archive;
 import com.tez.domain.FileIO;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Iterator;
 
 
 public class DatabaseBuilder {	
@@ -19,9 +18,9 @@ public class DatabaseBuilder {
 		return databaseBuilder;
 	}
         
-	//MongoDB mongoDB = MongoDB.getMongoDB();
+	MongoDB mongoDB = MongoDB.getMongoDB();
 	Neo4j neo4j = new Neo4j();
-	//Redis redis = new Redis();
+	Redis redis = new Redis();
 	
 	Archive archieve = Archive.getArchive();
 	FileIO fileIO = FileIO.getFileIO();
@@ -36,9 +35,9 @@ public class DatabaseBuilder {
 			archieve.writeWordsToFile("ENG");                       
                         
 						
-			//mongoDB.createAndInsertMovieDocs(archieve.getMovieArchive());//mongodb		
-			//redis.createRedis(archieve.getMovieArchive());//redis
-			//neo4j.createGraph(archieve.getMovieArchive());//neo4j	
+ 			mongoDB.createAndInsertMovieDocs(archieve.getMovieArchive());//mongodb		
+			redis.createRedis(archieve.getMovieArchive());//redis
+				
                         neo4j.cleanDatabase();
                         neo4j.insertInfoBoxGraph(archieve.getMovieArchive());
 			
@@ -52,11 +51,11 @@ public class DatabaseBuilder {
 	Archive archieve = Archive.getArchive();
 	ArrayList<Movie> movieArchive = archieve.getMovieArchive();
 	String string = 
-			"\nIncelenen Film Say?s?= "+movieArchive.size()
+			"\nIncelenen Film Sayısı= "+movieArchive.size()
 			+ "\nIngilizce Kaynak Bulunan Film Say?s?= "+(int)(movieArchive.size()-Movie.noAnyLangSource)
-			+ "\nIngilizce ve T�rk�e Kaynak Bulunan Film say?s?= "+(int)Movie.success
-			+ "\nTR Link Ba?ar? Oran?= %"+(Movie.success*100)/movieArchive.size()
-			+ "\nTR Link Onaylanma Oran?= %"+(Movie.verifySuccess*100)/new Movie().getSuccess();
+			+ "\nIngilizce ve Türkçe Kaynak Bulunan Film sayısı= "+(int)Movie.success
+			+ "\nTürkçe Link Başarı Oranı= %"+(Movie.success*100)/movieArchive.size()
+			+ "\nTürkçe Link Onaylanma Oranı= %"+(Movie.verifySuccess*100)/new Movie().getSuccess();
 	System.out.println(string);
     }	
 }

@@ -1261,7 +1261,6 @@ WORD: now, FREQ: 1
 WORD: gothique, FREQ: 1
 WORD: hollywoodgothique, FREQ: 1
 WORD: starwarstrilogy1997, FREQ: 1
-WORD: ss, FREQ: 1
 WORD: marcus, FREQ: 1
 WORD: hearn, FREQ: 1
 WORD: cliffhanging, FREQ: 1
@@ -1269,6 +1268,7 @@ WORD: cinema, FREQ: 1
 WORD: city, FREQ: 1
 WORD: abrams, FREQ: 1
 WORD: inc, FREQ: 1
+WORD: ss, FREQ: 1
 WORD: isbn 0, FREQ: 1
 WORD: hartlaub, FREQ: 1
 WORD: nah, FREQ: 1
@@ -1799,7 +1799,6 @@ WORD: kaminski, FREQ: 2
 WORD: they, FREQ: 2
 WORD: sfgate, FREQ: 2
 WORD: cgi, FREQ: 2
-WORD: to, FREQ: 2
 WORD: super, FREQ: 2
 WORD: chris, FREQ: 2
 WORD: business, FREQ: 2
@@ -1858,7 +1857,6 @@ WORD: şehrine, FREQ: 3
 WORD: kendisine, FREQ: 3
 WORD: gizli, FREQ: 3
 WORD: gerçeği, FREQ: 3
-WORD: iyi, FREQ: 3
 WORD: bölümü, FREQ: 3
 WORD: birleşik, FREQ: 3
 WORD: yapan, FREQ: 3
@@ -2076,7 +2074,6 @@ WORD: lucasarts, FREQ: 5
 WORD: playstation, FREQ: 5
 WORD: greatest, FREQ: 5
 WORD: for, FREQ: 5
-WORD: and, FREQ: 5
 WORD: dp, FREQ: 5
 WORD: leigh, FREQ: 6
 WORD: kasdan, FREQ: 6
@@ -2141,7 +2138,6 @@ WORD: millenium, FREQ: 9
 WORD: falcon, FREQ: 9
 WORD: temmuz, FREQ: 9
 WORD: original, FREQ: 9
-WORD: b, FREQ: 9
 WORD: george, FREQ: 10
 WORD: mark, FREQ: 10
 WORD: williams, FREQ: 10
@@ -2161,7 +2157,6 @@ WORD: wan, FREQ: 12
 WORD: hamill, FREQ: 13
 WORD: lando, FREQ: 13
 WORD: hoth, FREQ: 13
-WORD: rolünde, FREQ: 13
 WORD: i̇yi, FREQ: 13
 WORD: trilogy, FREQ: 13
 WORD: html, FREQ: 13
@@ -2171,7 +2166,6 @@ WORD: sinema, FREQ: 15
 WORD: tarafından, FREQ: 15
 WORD: orijinal, FREQ: 15
 WORD: ayrıca, FREQ: 15
-WORD: kaynağı, FREQ: 15
 WORD: bölüm, FREQ: 16
 WORD: yeni, FREQ: 16
 WORD: yoda, FREQ: 17
@@ -2183,12 +2177,10 @@ WORD: darth, FREQ: 19
 WORD: leia, FREQ: 20
 WORD: episode, FREQ: 21
 WORD: olan, FREQ: 21
-WORD: of, FREQ: 21
 WORD: han, FREQ: 22
 WORD: yer, FREQ: 22
 WORD: filmi, FREQ: 25
 WORD: olarak, FREQ: 26
-WORD: değiştir, FREQ: 28
 WORD: şubat, FREQ: 28
 WORD: filmin, FREQ: 30
 WORD: vader, FREQ: 31
@@ -2200,7 +2192,6 @@ WORD: lucas, FREQ: 35
 WORD: savaşları, FREQ: 37
 WORD: kaynağından, FREQ: 41
 WORD: arşivlendi, FREQ: 41
-WORD: www, FREQ: 42
 WORD: archive, FREQ: 43
 WORD: org, FREQ: 43
 WORD: back, FREQ: 44
@@ -2211,8 +2202,5 @@ WORD: erişim, FREQ: 50
 WORD: tarihi, FREQ: 51
 WORD: empire, FREQ: 58
 WORD: wars, FREQ: 65
-WORD: com, FREQ: 65
 WORD: star, FREQ: 73
-WORD: the, FREQ: 80
 WORD: web, FREQ: 82
-WORD: http, FREQ: 92

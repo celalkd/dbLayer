@@ -24,10 +24,11 @@ public class MongoDB {
 		this.clean();
 		for(Movie m : movieArchieve){
 			if(m.getVerified()){				
-				System.out.println(m.getInfoBox().getTitle()+" Mongodb");				
+				//System.out.println(m.getInfoBox().getTitle()+" Mongodb");				
 				BasicDBObject movieDoc = new BasicDBObject();				
 				movieDoc.append("_id",m.getId())
 				 .append("title", m.getInfoBox().getTitle())
+                                 .append("başlık", m.getInfoBox().getTitle_TR())      
 				 .append("director", m.getInfoBox().getDirector())
 				 .append("year", m.getYear())
 				 .append("starring", m.getInfoBox().getStarring())
@@ -36,9 +37,11 @@ public class MongoDB {
 				 .append("wikiURL", m.getWikiURL_EN())
 				 .append("vikiURL", m.getVikiURL_TR())
                                  .append("poster", m.getInfoBox().getPoster())
-                                 .append("plot", m.getPlot());	
+                                 .append("plot", m.getPlot())
+                                 .append("konu", m.getPlotTR());	
 				docList.add(movieDoc);
 			}
+                        
 		}		
 		this.collection.insert(docList);//doldurulan doc listesi collectiona insert edilir
 	}	

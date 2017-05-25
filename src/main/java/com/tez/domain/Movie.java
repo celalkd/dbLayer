@@ -3,7 +3,6 @@ package com.tez.domain;
 
 import java.io.IOException;
 import java.net.URLDecoder;
-import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -14,7 +13,6 @@ import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 
 public class Movie {
@@ -31,7 +29,8 @@ public class Movie {
 	private int year;
 	private String context_TR;
 	private String context_ENG;
-        private String plot;
+        private String plot_ENG;
+        private String plot_TR;
 
 	
 	private InfoBox infoBox;
@@ -52,10 +51,10 @@ public class Movie {
 	}	
 	
 	//FUNCTIONS
-        public void setPlot(String wikiURL_EN){
+        public void setPlot_ENG(){
             String plot="";
             try {	
-			Connection.Response res = Jsoup.connect(wikiURL_EN).execute();
+			Connection.Response res = Jsoup.connect(this.wikiURL_EN).execute();
 			String html = res.body();
 			Document doc = Jsoup.parseBodyFragment(html);
                         
@@ -68,14 +67,49 @@ public class Movie {
                             }
                             el = el.nextElementSibling();
                         }
-                        this.plot = plot;
+                        this.plot_ENG = plot;
+                        
+            }catch (IOException ex) {
+                Logger.getLogger(Movie.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+        public void setPlot_TR(){
+            String plot="";
+            try {	
+			Connection.Response res = Jsoup.connect(this.vikiURL_TR).execute();
+			String html = res.body();
+			Document doc = Jsoup.parseBodyFragment(html);
+                        
+                        Element plot_span_element=null;
+                        
+                        if(doc.getElementById("Özet")!=null)
+                            plot_span_element = doc.getElementById("Özet");
+                        else if(doc.getElementById("Konusu")!=null)
+                            plot_span_element = doc.getElementById("Konusu");
+                        else if(doc.getElementById("Konu")!=null)
+                            plot_span_element = doc.getElementById("Konu");
+                        
+                        if(plot_span_element!=null){
+                            Element plot_h2_element = plot_span_element.parent();
+                            Element el = plot_h2_element.nextElementSibling();
+                            while(!el.tagName().equals("h2")){
+                                if(el.tagName().equals("p")){
+                                    plot = plot+el.text()+"\n";
+                                }
+                                el = el.nextElementSibling();
+                            }
+                            this.plot_TR = plot;
+                        }
                         
             }catch (IOException ex) {
                 Logger.getLogger(Movie.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
         public String getPlot(){
-            return this.plot;
+            return this.plot_ENG;
+        }
+        public String getPlotTR(){
+            return this.plot_TR;
         }
 	public void setActiveWikiLink(){
 		/*
@@ -135,9 +169,14 @@ public class Movie {
 		textBody = setAndReturnContext(this.getWikiURL_EN(),"ENG");				
 		this.splitContextToWords(textBody, this.getWordListEng(), "ENG");
 	}
-	public String setAndReturnContext(String url, String language) throws IOException{
+	public String setAndReturnContext(String url, String language){
 		
-		Document doc = Jsoup.connect(url).get();
+		Document doc = null;
+                try {
+                    doc = Jsoup.connect(url).get();
+                }catch (IOException ex) {
+                 Logger.getLogger(Movie.class.getName()).log(Level.SEVERE, null, ex);
+                }
 		String textBody = doc.select("div#mw-content-text").text();
 		if(language.equals("TR")){
 			this.setContext_TR(textBody);
